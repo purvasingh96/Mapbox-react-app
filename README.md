@@ -4,7 +4,7 @@ This repository contains my experiments with the [mapbox api](https://docs.mapbo
 ## Steps to run this repository
 1. Clone the repo.
 2. Create a `.env.local` file in the **root** directory of the project.
-3. Use the following steps to generate your personal mapbox access token.
+3. Use the following [steps](https://docs.mapbox.com/help/tutorials/get-started-tokens-api/) to generate your personal mapbox access token.
 4. Inside your `.env.local` file add the following line:
 ```
 REACT_APP_MAPBOX_TOKEN = <your apbox access token>
