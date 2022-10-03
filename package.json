@@ -3,14 +3,19 @@
     "version": "0.1.0",
     "private": true,
     "dependencies": {
+        "@emotion/react": "^11.10.4",
+        "@emotion/styled": "^11.10.4",
+        "@mui/material": "^5.10.7",
         "@turf/turf": "^6.5.0",
         "d3-scale": "^4.0.2",
+        "date-fns": "^2.29.3",
         "maplibre-gl": "^2.4.0",
-        "react": "^16.8.6",
-        "react-dom": "^16.8.6",
+        "react": "^17.0.0",
+        "react-dom": "^17.0.0",
         "react-map-gl": "^4.1.2",
         "react-scripts": "2.1.8",
-        "turf": "^3.0.14"
+        "turf": "^3.0.14",
+        "typescript": "^4.8.4"
     },
     "scripts": {
         "start": "react-scripts start",
@@ -26,5 +31,8 @@
         "not dead",
         "not ie <= 11",
         "not op_mini all"
-    ]
+    ],
+    "devDependencies": {
+        "@types/react": "^18.0.21"
+    }
 }
