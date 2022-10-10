@@ -12,7 +12,7 @@
         "maplibre-gl": "^2.4.0",
         "react": "^17.0.0",
         "react-dom": "^17.0.0",
-        "react-map-gl": "^4.1.2",
+        "react-map-gl": "^4.1.16",
         "react-scripts": "2.1.8",
         "turf": "^3.0.14",
         "typescript": "^4.8.4"
@@ -33,6 +33,9 @@
         "not op_mini all"
     ],
     "devDependencies": {
-        "@types/react": "^18.0.21"
+        "@types/d3-array": "^3.0.3",
+        "@types/d3-scale": "^4.0.2",
+        "@types/react": "^18.0.21",
+        "@types/react-map-gl": "^6.1.3"
     }
 }
