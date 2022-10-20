@@ -1,15 +1,4 @@
 {
-    "name": "COVID-19 State-By-State Daily Statistic Heatmap Layer",
-    "mapData": {
-      "center": [
-        42,
-        -100
-      ],
-      "zoom": 0
-    },
-    "markers": [],
-    "layers": [
-      {
         "source": {
           "type": "FeatureCollection",
           "features": [
@@ -15845,9 +15834,6 @@
             }
           ],
           "coordinateSystem": "custom"
-        },
-        "mapType": "heatmap",
-        "name": "COVID-19 State-By-State Daily Statistic Heatmap Layer"
+        }
       }
-    ]
-  }
+      
