@@ -1,100 +1,47 @@
 {
-  "features": [
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              -627.4630028371395,
-              158.4705563546223
-            ],
-            [
-              -633.3989487972306,
-              166.97426374974006
-            ],
-            [
-              -634.7541909511402,
-              158.58115298433844
-            ],
-            [
-              -627.1606248157063,
-              166.8913406791216
-            ],
-            [
-              -627.4630028371395,
-              158.4705563546223
-            ]
-          ]
+  "type": "Feature",
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -633.3989487972306,
+          166.97426374974006
+        ],
+        [
+          -627.4630028371395,
+          158.4705563546223
+        ],
+        [
+          -627.1606248157063,
+          166.8913406791216
+        ],
+        [
+          -634.7541909511402,
+          158.58115298433844
+        ],
+        [
+          -633.3989487972306,
+          166.97426374974006
         ]
-      },
-      "properties": {
-        "deaths": "264",
-        "population": "124",
-        "todayDeaths": "932",
-        "tests": "1385",
-        "deathsPerOneMillion": "466",
-        "cases": "94585",
-        "state": "New Hautean",
-        "name": "New Hautean",
-        "recovered": "935",
-        "casesPerOneMillion": "890",
-        "todayCases": "567",
-        "description": "New Hautean is a sprawling town, known for its space programme.",
-        "active": "413",
-        "Name": "state1",
-        "testsPerOneMillion": "576"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              -594.1218171553136,
-              210.78922899153798
-            ],
-            [
-              -588.8883551072115,
-              210.78922899153798
-            ],
-            [
-              -588.9770578537895,
-              200.3666562686227
-            ],
-            [
-              -595.3636556074057,
-              202.40681943991677
-            ],
-            [
-              -594.1218171553136,
-              210.78922899153798
-            ]
-          ]
-        ]
-      },
-      "properties": {
-        "deaths": "264",
-        "population": "124",
-        "todayDeaths": "932",
-        "tests": "1385",
-        "deathsPerOneMillion": "466",
-        "cases": "94585",
-        "state": "New Hautean",
-        "name": "New Hautean",
-        "recovered": "935",
-        "casesPerOneMillion": "890",
-        "todayCases": "567",
-        "description": "New Hautean is a sprawling town, known for its space programme.",
-        "active": "413",
-        "Name": "state1",
-        "testsPerOneMillion": "576"
-      }
-    }
-  ],
-  "type": "FeatureCollection"
+      ]
+    ]
+  },
+  "properties": {
+    "deaths": "264",
+    "population": "124",
+    "todayDeaths": "932",
+    "tests": "1385",
+    "deathsPerOneMillion": "466",
+    "cases": "94585",
+    "state": "New Hautean",
+    "name": "New Hautean",
+    "recovered": "935",
+    "casesPerOneMillion": "890",
+    "todayCases": "567",
+    "description": "New Hautean is a sprawling town, known for its space programme.",
+    "active": "413",
+    "Name": "state1",
+    "testsPerOneMillion": "576"
+  }
 }
-
