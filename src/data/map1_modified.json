@@ -11,16 +11,16 @@
               158.4705563546223
             ],
             [
-              -633.3989487972306,
-              166.97426374974006
+              -627.1606248157063,
+              166.8913406791216
             ],
             [
               -634.7541909511402,
               158.58115298433844
             ],
             [
-              -627.1606248157063,
-              166.8913406791216
+              -633.3989487972306,
+              166.97426374974006
             ],
             [
               -627.4630028371395,
@@ -58,16 +58,16 @@
               210.78922899153798
             ],
             [
-              -588.8883551072115,
-              210.78922899153798
+              -595.3636556074057,
+              202.40681943991677
             ],
             [
               -588.9770578537895,
               200.3666562686227
             ],
             [
-              -595.3636556074057,
-              202.40681943991677
+              -588.8883551072115,
+              210.78922899153798
             ],
             [
               -594.1218171553136,
@@ -93,8 +93,847 @@
         "Name": "state1",
         "testsPerOneMillion": "576"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -601.5284964945769,
+              202.27376532004976
+            ],
+            [
+              -601.5284964945769,
+              195.79846481985558
+            ],
+            [
+              -595.0088446210937,
+              195.70976207327757
+            ],
+            [
+              -594.0774657820247,
+              202.05200845360474
+            ],
+            [
+              -595.4080069806947,
+              202.40681943991677
+            ],
+            [
+              -601.5284964945769,
+              202.27376532004976
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "deaths": "280",
+        "population": "592",
+        "todayDeaths": "969",
+        "tests": "9222",
+        "deathsPerOneMillion": "18",
+        "cases": "28213",
+        "state": "St Bansterbeth",
+        "name": "St Bansterbeth",
+        "recovered": "321",
+        "casesPerOneMillion": "906",
+        "todayCases": "413",
+        "description": "St Bansterbeth is a large city named after Saint Bansterbeth. It is known for its elaborate legends.",
+        "active": "884",
+        "testsPerOneMillion": "773"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -588.8883551072115,
+              210.78922899153798
+            ],
+            [
+              -588.9327064805005,
+              205.11225321054584
+            ],
+            [
+              -581.6147298878153,
+              205.15660458383485
+            ],
+            [
+              -581.6147298878153,
+              210.74487761824898
+            ],
+            [
+              -588.8883551072115,
+              210.78922899153798
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "deaths": "255",
+        "population": "697",
+        "todayDeaths": "188",
+        "tests": "3471",
+        "deathsPerOneMillion": "202",
+        "cases": "19872",
+        "state": "Parmeau",
+        "name": "Parmeau",
+        "recovered": "930",
+        "casesPerOneMillion": "596",
+        "todayCases": "499",
+        "description": "Parmeau is a small city, known for its culture.",
+        "active": "629",
+        "testsPerOneMillion": "748"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -581.5703785145263,
+              210.74487761824898
+            ],
+            [
+              -581.6147298878153,
+              201.65284609400373
+            ],
+            [
+              -576.9578356924701,
+              201.74154884058174
+            ],
+            [
+              -577.0021870657591,
+              210.70052624496
+            ],
+            [
+              -581.5703785145263,
+              210.74487761824898
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "deaths": "238",
+        "population": "196",
+        "todayDeaths": "774",
+        "tests": "1358",
+        "deathsPerOneMillion": "690",
+        "cases": "99744",
+        "state": "Mitpayne-On-Sea",
+        "name": "Mitpayne-On-Sea",
+        "recovered": "837",
+        "casesPerOneMillion": "805",
+        "todayCases": "343",
+        "description": "Mitpayne-On-Sea is a coastal, small city, known for its space programme.",
+        "active": "772",
+        "testsPerOneMillion": "425"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -588.9327064805005,
+              205.06790183725684
+            ],
+            [
+              -588.9770578537895,
+              200.3223048953337
+            ],
+            [
+              -584.6306232714674,
+              198.94741232337466
+            ],
+            [
+              -581.6147298878153,
+              201.43108922755874
+            ],
+            [
+              -581.5703785145263,
+              205.15660458383485
+            ],
+            [
+              -588.9327064805005,
+              205.06790183725684
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "deaths": "259",
+        "population": "365",
+        "todayDeaths": "541",
+        "tests": "8743",
+        "deathsPerOneMillion": "963",
+        "cases": "78879",
+        "state": "North Morchet",
+        "name": "North Morchet",
+        "recovered": "706",
+        "casesPerOneMillion": "585",
+        "todayCases": "650",
+        "description": "North Morchet is a sprawling town, known for its car factory.",
+        "active": "908",
+        "testsPerOneMillion": "916"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -601.5284964945769,
+              195.75411344656658
+            ],
+            [
+              -601.5728478678658,
+              190.91981375806543
+            ],
+            [
+              -595.0531959943827,
+              190.87546238477643
+            ],
+            [
+              -595.0088446210937,
+              195.70976207327757
+            ],
+            [
+              -601.5284964945769,
+              195.75411344656658
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "deaths": "360",
+        "population": "480",
+        "todayDeaths": "545",
+        "tests": "3943",
+        "deathsPerOneMillion": "965",
+        "cases": "22659",
+        "state": "South Psham",
+        "name": "South Psham",
+        "recovered": "39",
+        "casesPerOneMillion": "138",
+        "todayCases": "601",
+        "description": "South Psham is a sprawling town, known for a famous invention.",
+        "active": "532",
+        "testsPerOneMillion": "32"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -594.0774657820247,
+              202.00765708031574
+            ],
+            [
+              -594.9644932478046,
+              195.75411344656658
+            ],
+            [
+              -595.0531959943827,
+              194.15746400816252
+            ],
+            [
+              -590.2632476791705,
+              194.11311263487352
+            ],
+            [
+              -590.0858421860145,
+              200.7214672549347
+            ],
+            [
+              -594.0774657820247,
+              202.00765708031574
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "deaths": "139",
+        "population": "166",
+        "todayDeaths": "912",
+        "tests": "6944",
+        "deathsPerOneMillion": "599",
+        "cases": "61956",
+        "state": "North Tersfolk",
+        "name": "North Tersfolk",
+        "recovered": "954",
+        "casesPerOneMillion": "467",
+        "todayCases": "641",
+        "description": "North Tersfolk is a sprawling city, known for its mention in a famous song.",
+        "active": "829",
+        "testsPerOneMillion": "297"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -601.5728478678658,
+              190.91981375806543
+            ],
+            [
+              -601.5728478678658,
+              188.52483960045936
+            ],
+            [
+              -589.4205715866794,
+              188.34743410730337
+            ],
+            [
+              -589.4649229599685,
+              190.83111101148745
+            ],
+            [
+              -601.5728478678658,
+              190.91981375806543
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "deaths": "197",
+        "population": "505",
+        "todayDeaths": "350",
+        "tests": "6470",
+        "deathsPerOneMillion": "114",
+        "cases": "47500",
+        "state": "New Battlomp-In-Castney",
+        "name": "New Battlomp-In-Castney",
+        "recovered": "788",
+        "casesPerOneMillion": "704",
+        "todayCases": "775",
+        "description": "New Battlomp-In-Castney is a small town, known for being the setting of a famous story.",
+        "active": "436",
+        "testsPerOneMillion": "780"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -601.5728478678658,
+              188.52483960045936
+            ],
+            [
+              -601.5728478678658,
+              185.77505445654128
+            ],
+            [
+              -598.7787113506588,
+              185.77505445654128
+            ],
+            [
+              -598.8230627239477,
+              188.48048822717038
+            ],
+            [
+              -601.5728478678658,
+              188.52483960045936
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "deaths": "300",
+        "population": "761",
+        "todayDeaths": "950",
+        "tests": "9929",
+        "deathsPerOneMillion": "153",
+        "cases": "45972",
+        "state": "Ferbel",
+        "name": "Ferbel",
+        "recovered": "271",
+        "casesPerOneMillion": "616",
+        "todayCases": "720",
+        "description": "Ferbel is a sprawling town, known for being the birthplace of a music genre.",
+        "active": "347",
+        "testsPerOneMillion": "713"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -598.7787113506588,
+              188.43613685388138
+            ],
+            [
+              -598.7787113506588,
+              185.77505445654128
+            ],
+            [
+              -589.2431660935235,
+              185.77505445654128
+            ],
+            [
+              -598.7787113506588,
+              188.43613685388138
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "deaths": "17",
+        "population": "757",
+        "todayDeaths": "601",
+        "tests": "8753",
+        "deathsPerOneMillion": "269",
+        "cases": "96658",
+        "state": "San Ronhu",
+        "name": "San Ronhu",
+        "recovered": "319",
+        "casesPerOneMillion": "586",
+        "todayCases": "49",
+        "description": "San Ronhu is a small town named after Saint Ronhu. It is known for its research lab.",
+        "active": "36",
+        "testsPerOneMillion": "871"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -598.7787113506588,
+              188.48048822717038
+            ],
+            [
+              -589.3318688401015,
+              185.77505445654128
+            ],
+            [
+              -589.4649229599685,
+              188.34743410730337
+            ],
+            [
+              -598.7787113506588,
+              188.48048822717038
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "deaths": "284",
+        "population": "556",
+        "todayDeaths": "724",
+        "tests": "6532",
+        "deathsPerOneMillion": "212",
+        "cases": "12375",
+        "state": "Ginlowhampton",
+        "name": "Ginlowhampton",
+        "recovered": "783",
+        "casesPerOneMillion": "763",
+        "todayCases": "92",
+        "description": "Ginlowhampton is a sprawling town situated on a river bend known for inventing the Ginlowhampton cake.",
+        "active": "48",
+        "testsPerOneMillion": "59"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -581.5703785145263,
+              201.69719746729274
+            ],
+            [
+              -581.5703785145263,
+              200.4553590152007
+            ],
+            [
+              -576.9578356924701,
+              200.54406176177872
+            ],
+            [
+              -576.9578356924701,
+              201.69719746729274
+            ],
+            [
+              -581.5703785145263,
+              201.69719746729274
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "deaths": "119",
+        "population": "277",
+        "todayDeaths": "513",
+        "tests": "5849",
+        "deathsPerOneMillion": "208",
+        "cases": "66280",
+        "state": "Mitgon Beach",
+        "name": "Mitgon Beach",
+        "recovered": "622",
+        "casesPerOneMillion": "165",
+        "todayCases": "533",
+        "description": "Mitgon Beach is a coastal, large town, known for its culture.",
+        "active": "152",
+        "testsPerOneMillion": "828"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -595.0088446210937,
+              194.15746400816252
+            ],
+            [
+              -595.0531959943827,
+              190.91981375806543
+            ],
+            [
+              -589.4205715866794,
+              190.78675963819845
+            ],
+            [
+              -589.2875174668125,
+              185.8194058298303
+            ],
+            [
+              -587.3360570420964,
+              185.77505445654128
+            ],
+            [
+              -587.3804084153854,
+              194.06876126158454
+            ],
+            [
+              -595.0088446210937,
+              194.15746400816252
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "deaths": "178",
+        "population": "935",
+        "todayDeaths": "528",
+        "tests": "8343",
+        "deathsPerOneMillion": "949",
+        "cases": "29371",
+        "state": "Guiskentbury",
+        "name": "Guiskentbury",
+        "recovered": "392",
+        "casesPerOneMillion": "221",
+        "todayCases": "901",
+        "description": "Guiskentbury is a large town, known for its mention in a famous song.",
+        "active": "937",
+        "testsPerOneMillion": "687"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -587.3360570420964,
+              194.06876126158454
+            ],
+            [
+              -587.2917056688075,
+              185.77505445654128
+            ],
+            [
+              -583.6105416858203,
+              185.77505445654128
+            ],
+            [
+              -583.7435958056874,
+              194.06876126158454
+            ],
+            [
+              -587.3360570420964,
+              194.06876126158454
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "deaths": "274",
+        "population": "70",
+        "todayDeaths": "888",
+        "tests": "1218",
+        "deathsPerOneMillion": "771",
+        "cases": "57039",
+        "state": "Bibameadchester",
+        "name": "Bibameadchester",
+        "recovered": "475",
+        "casesPerOneMillion": "128",
+        "todayCases": "202",
+        "description": "Bibameadchester is a large city, known for its sports team.",
+        "active": "725",
+        "testsPerOneMillion": "471"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -583.6548930591093,
+              189.81102942584042
+            ],
+            [
+              -583.6105416858203,
+              185.8194058298303
+            ],
+            [
+              -576.9134843191812,
+              185.77505445654128
+            ],
+            [
+              -576.8691329458921,
+              189.8997321724184
+            ],
+            [
+              -583.6548930591093,
+              189.81102942584042
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "deaths": "57",
+        "population": "913",
+        "todayDeaths": "379",
+        "tests": "9931",
+        "deathsPerOneMillion": "195",
+        "cases": "49163",
+        "state": "Kinsgoul",
+        "name": "Kinsgoul",
+        "recovered": "710",
+        "casesPerOneMillion": "729",
+        "todayCases": "520",
+        "description": "Kinsgoul is a small city, known for being the birthplace of a film star.",
+        "active": "268",
+        "testsPerOneMillion": "358"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -581.5703785145263,
+              200.49971038848972
+            ],
+            [
+              -581.4373243946593,
+              189.7666780525514
+            ],
+            [
+              -576.9134843191812,
+              189.8997321724184
+            ],
+            [
+              -576.9578356924701,
+              200.54406176177872
+            ],
+            [
+              -581.5703785145263,
+              200.49971038848972
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "deaths": "72",
+        "population": "482",
+        "todayDeaths": "353",
+        "tests": "7598",
+        "deathsPerOneMillion": "206",
+        "cases": "92601",
+        "state": "West Rysmans",
+        "name": "West Rysmans",
+        "recovered": "751",
+        "casesPerOneMillion": "113",
+        "todayCases": "291",
+        "description": "West Rysmans is a small town, known for its nightlife.",
+        "active": "2",
+        "testsPerOneMillion": "411"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -590.0858421860145,
+              198.99176369666367
+            ],
+            [
+              -590.2188963058816,
+              194.11311263487352
+            ],
+            [
+              -583.7435958056874,
+              194.02440988829554
+            ],
+            [
+              -583.6105416858203,
+              189.8997321724184
+            ],
+            [
+              -581.4373243946593,
+              189.8997321724184
+            ],
+            [
+              -581.4816757679483,
+              198.94741232337466
+            ],
+            [
+              -590.0858421860145,
+              198.99176369666367
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "deaths": "59",
+        "population": "316",
+        "todayDeaths": "852",
+        "tests": "6817",
+        "deathsPerOneMillion": "287",
+        "cases": "95848",
+        "state": "St Stanew",
+        "name": "St Stanew",
+        "recovered": "566",
+        "casesPerOneMillion": "608",
+        "todayCases": "852",
+        "description": "St Stanew is a sprawling city named after Saint Stanew. It is known for a great train robbery.",
+        "active": "477",
+        "testsPerOneMillion": "74"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -590.0414908127256,
+              200.6327645083567
+            ],
+            [
+              -590.1301935593035,
+              198.99176369666367
+            ],
+            [
+              -584.6306232714674,
+              198.94741232337466
+            ],
+            [
+              -590.0414908127256,
+              200.6327645083567
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "deaths": "33",
+        "population": "239",
+        "todayDeaths": "401",
+        "tests": "5497",
+        "deathsPerOneMillion": "532",
+        "cases": "67511",
+        "state": "East Blackkacham",
+        "name": "East Blackkacham",
+        "recovered": "764",
+        "casesPerOneMillion": "270",
+        "todayCases": "230",
+        "description": "East Blackkacham is a sprawling town, known for being the setting of a famous story.",
+        "active": "580",
+        "testsPerOneMillion": "816"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -581.5260271412373,
+              201.51979197413672
+            ],
+            [
+              -584.6749746447564,
+              198.90306095008566
+            ],
+            [
+              -581.5260271412373,
+              198.94741232337466
+            ],
+            [
+              -581.5260271412373,
+              201.51979197413672
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "deaths": "292",
+        "population": "304",
+        "todayDeaths": "163",
+        "tests": "4107",
+        "deathsPerOneMillion": "594",
+        "cases": "31995",
+        "state": "New Louiseprice",
+        "name": "New Louiseprice",
+        "recovered": "913",
+        "casesPerOneMillion": "262",
+        "todayCases": "454",
+        "description": "New Louiseprice is a small town, known for its nightlife.",
+        "active": "967",
+        "testsPerOneMillion": "512"
+      }
     }
   ],
   "type": "FeatureCollection"
 }
-
