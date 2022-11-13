@@ -1,5 +1,4 @@
 {
-  "type": "FeatureCollection",
   "features": [
     {
       "type": "Feature",
@@ -7,10 +6,6 @@
         "type": "Polygon",
         "coordinates": [
           [
-            [
-              -633.3989487972306,
-              166.97426374974006
-            ],
             [
               -627.4630028371395,
               158.4705563546223
@@ -20,12 +15,16 @@
               166.8913406791216
             ],
             [
+              -633.3989487972306,
+              166.97426374974006
+            ],
+            [
               -634.7541909511402,
               158.58115298433844
             ],
             [
-              -633.3989487972306,
-              166.97426374974006
+              -627.4630028371395,
+              158.4705563546223
             ]
           ]
         ]
@@ -47,6 +46,912 @@
         "Name": "state1",
         "testsPerOneMillion": "576"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -638.6800371539728,
+              168.76332883468098
+            ],
+            [
+              -639.9662948397284,
+              160.38762027969642
+            ],
+            [
+              -633.5906021039309,
+              158.31362925495685
+            ],
+            [
+              -633.4466486431662,
+              168.73558529702717
+            ],
+            [
+              -638.6800371539728,
+              168.76332883468098
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "deaths": "11",
+        "population": "722",
+        "todayDeaths": "130",
+        "tests": "5373",
+        "deathsPerOneMillion": "483",
+        "cases": "53850",
+        "state": "Waynesmithhampton",
+        "name": "Waynesmithhampton",
+        "recovered": "355",
+        "casesPerOneMillion": "797",
+        "todayCases": "786",
+        "description": "Waynesmithhampton is a small town situated on a river bend known for being the birthplace of a famous author.",
+        "active": "784",
+        "Name": "state2",
+        "testsPerOneMillion": "834"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -626.2740821452308,
+              151.8190785415822
+            ],
+            [
+              -626.3448747188252,
+              158.29399205292262
+            ],
+            [
+              -632.8651067141282,
+              158.31141204404804
+            ],
+            [
+              -633.7270919587455,
+              151.9593622072866
+            ],
+            [
+              -632.3927512332045,
+              151.61911884507492
+            ],
+            [
+              -626.2740821452308,
+              151.8190785415822
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "deaths": "114",
+        "population": "164",
+        "todayDeaths": "460",
+        "tests": "8214",
+        "deathsPerOneMillion": "926",
+        "cases": "50766",
+        "state": "Chilno",
+        "name": "Chilno",
+        "recovered": "903",
+        "casesPerOneMillion": "93",
+        "todayCases": "616",
+        "description": "Chilno is a small city, known for gansters.",
+        "active": "759",
+        "Name": "state3",
+        "testsPerOneMillion": "258"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -626.0796389418088,
+              155.63616662160555
+            ],
+            [
+              -626.1415263254671,
+              149.95935492717447
+            ],
+            [
+              -618.8234476450828,
+              149.9811008027306
+            ],
+            [
+              -618.8061854265814,
+              155.56934717551806
+            ],
+            [
+              -626.0796389418088,
+              155.63616662160555
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "deaths": "295",
+        "population": "963",
+        "todayDeaths": "637",
+        "tests": "1048",
+        "deathsPerOneMillion": "997",
+        "cases": "65369",
+        "state": "Moose Gafcarl",
+        "name": "Moose Gafcarl",
+        "recovered": "854",
+        "casesPerOneMillion": "650",
+        "todayCases": "249",
+        "description": "Moose Gafcarl is a small town, known for its university.",
+        "active": "105",
+        "Name": "state5",
+        "testsPerOneMillion": "582"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -638.8427963541704,
+              168.74503647067695
+            ],
+            [
+              -629.7507002837277,
+              168.71687039140693
+            ],
+            [
+              -629.8476928824083,
+              173.37359930338914
+            ],
+            [
+              -638.8065771391832,
+              173.31329963356154
+            ],
+            [
+              -638.8427963541704,
+              168.74503647067695
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "deaths": "330",
+        "population": "600",
+        "todayDeaths": "293",
+        "tests": "8399",
+        "deathsPerOneMillion": "919",
+        "cases": "29230",
+        "state": "Mattown",
+        "name": "Mattown",
+        "recovered": "479",
+        "casesPerOneMillion": "951",
+        "todayCases": "851",
+        "description": "Mattown is a small town, known for its chocolate.",
+        "active": "868",
+        "Name": "state4",
+        "testsPerOneMillion": "860"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -640.2665326840572,
+              158.53879125790067
+            ],
+            [
+              -640.373724227802,
+              153.79419777136772
+            ],
+            [
+              -636.0458779292384,
+              152.36186764920907
+            ],
+            [
+              -632.9973586516958,
+              154.80538848611317
+            ],
+            [
+              -632.9036756441051,
+              158.52998983501638
+            ],
+            [
+              -640.2665326840572,
+              158.53879125790067
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "deaths": "253",
+        "population": "95",
+        "todayDeaths": "666",
+        "tests": "6512",
+        "deathsPerOneMillion": "455",
+        "cases": "15277",
+        "state": "El Colpon Upon Grovethton",
+        "name": "El Colpon Upon Grovethton",
+        "recovered": "436",
+        "casesPerOneMillion": "792",
+        "todayCases": "874",
+        "description": "El Colpon Upon Grovethton is a sprawling town, known for progressive values.",
+        "active": "770",
+        "Name": "state6",
+        "testsPerOneMillion": "419"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -627.6995675100968,
+              176.58873982483652
+            ],
+            [
+              -627.6253071972201,
+              171.75480706480712
+            ],
+            [
+              -621.1065294952488,
+              171.87041358714475
+            ],
+            [
+              -621.1807898081254,
+              176.7043463471743
+            ],
+            [
+              -627.6995675100968,
+              176.58873982483652
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "deaths": "130",
+        "population": "280",
+        "todayDeaths": "337",
+        "tests": "7770",
+        "deathsPerOneMillion": "909",
+        "cases": "67644",
+        "state": "Grand Kyabellmag",
+        "name": "Grand Kyabellmag",
+        "recovered": "346",
+        "casesPerOneMillion": "556",
+        "todayCases": "445",
+        "description": "Grand Kyabellmag is a large town, known for its historic significance.",
+        "active": "879",
+        "Name": "state7",
+        "testsPerOneMillion": "381"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -628.9010130117019,
+              155.74936631761184
+            ],
+            [
+              -622.6289836501392,
+              155.00419963025396
+            ],
+            [
+              -621.0307347855457,
+              154.9516813169478
+            ],
+            [
+              -621.0948798292891,
+              159.74140545515027
+            ],
+            [
+              -627.7055573068618,
+              159.76909626586772
+            ],
+            [
+              -628.9010130117019,
+              155.74936631761184
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "deaths": "21",
+        "population": "728",
+        "todayDeaths": "608",
+        "tests": "5213",
+        "deathsPerOneMillion": "634",
+        "cases": "56177",
+        "state": "Prince Becross Aux Queel",
+        "name": "Prince Becross Aux Queel",
+        "recovered": "922",
+        "casesPerOneMillion": "597",
+        "todayCases": "51",
+        "description": "Prince Becross Aux Queel is a large town, known for its castle.",
+        "active": "947",
+        "Name": "state8",
+        "testsPerOneMillion": "473"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -621.2600333063905,
+              164.46447358607253
+            ],
+            [
+              -618.8650594265428,
+              164.4656270371716
+            ],
+            [
+              -618.6935066502795,
+              176.61798734981227
+            ],
+            [
+              -621.1771619062117,
+              176.5724398101567
+            ],
+            [
+              -621.2600333063905,
+              164.46447358607253
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "deaths": "299",
+        "population": "338",
+        "todayDeaths": "550",
+        "tests": "5872",
+        "deathsPerOneMillion": "849",
+        "cases": "73599",
+        "state": "Estesul",
+        "name": "Estesul",
+        "recovered": "782",
+        "casesPerOneMillion": "23",
+        "todayCases": "645",
+        "description": "Estesul is a small town, known for its university.",
+        "active": "874",
+        "Name": "state9",
+        "testsPerOneMillion": "738"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -638.6933014210002,
+              176.56053161060993
+            ],
+            [
+              -638.6933014210002,
+              173.81074646669185
+            ],
+            [
+              -635.8991649037932,
+              173.81074646669185
+            ],
+            [
+              -635.9435162770822,
+              176.51618023732095
+            ],
+            [
+              -638.6933014210002,
+              176.56053161060993
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "deaths": "92",
+        "population": "406",
+        "todayDeaths": "782",
+        "tests": "2426",
+        "deathsPerOneMillion": "163",
+        "cases": "86475",
+        "state": "Grand Milom",
+        "name": "Grand Milom",
+        "recovered": "627",
+        "casesPerOneMillion": "961",
+        "todayCases": "219",
+        "description": "Grand Milom is a large town, known for its university.",
+        "active": "772",
+        "Name": "state10",
+        "testsPerOneMillion": "12"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -643.324536806214,
+              154.50046467922763
+            ],
+            [
+              -643.3284502972512,
+              151.839385159555
+            ],
+            [
+              -633.7929153517579,
+              151.82536181667123
+            ],
+            [
+              -643.324536806214,
+              154.50046467922763
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "deaths": "364",
+        "population": "220",
+        "todayDeaths": "358",
+        "tests": "2207",
+        "deathsPerOneMillion": "782",
+        "cases": "63955",
+        "state": "Li",
+        "name": "Li",
+        "recovered": "844",
+        "casesPerOneMillion": "5",
+        "todayCases": "249",
+        "description": "Li is a sprawling town, known for its tech industry.",
+        "active": "574",
+        "Name": "state11",
+        "testsPerOneMillion": "528"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -630.6029747264861,
+              167.93358025414744
+            ],
+            [
+              -621.1790312563562,
+              165.14942961556332
+            ],
+            [
+              -621.2906204690785,
+              167.72282976207612
+            ],
+            [
+              -630.6029747264861,
+              167.93358025414744
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "deaths": "88",
+        "population": "59",
+        "todayDeaths": "579",
+        "tests": "3083",
+        "deathsPerOneMillion": "308",
+        "cases": "47811",
+        "state": "Prince Vernhopebourne",
+        "name": "Prince Vernhopebourne",
+        "recovered": "762",
+        "casesPerOneMillion": "118",
+        "todayCases": "24",
+        "description": "Prince Vernhopebourne is a large city, known for its mention in a famous song.",
+        "active": "123",
+        "Name": "state12",
+        "testsPerOneMillion": "809"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -627.3043330416604,
+              165.81556446211115
+            ],
+            [
+              -627.3213585819199,
+              164.5738427251375
+            ],
+            [
+              -622.7080331631413,
+              164.59929941395748
+            ],
+            [
+              -622.6922237329004,
+              165.75232674114747
+            ],
+            [
+              -627.3043330416604,
+              165.81556446211115
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "deaths": "86",
+        "population": "449",
+        "todayDeaths": "781",
+        "tests": "3653",
+        "deathsPerOneMillion": "890",
+        "cases": "10946",
+        "state": "Darlake Forest",
+        "name": "Darlake Forest",
+        "recovered": "468",
+        "casesPerOneMillion": "965",
+        "todayCases": "825",
+        "description": "Darlake Forest is a sprawling town situated besides a lake. It is known for its historic significance.",
+        "active": "849",
+        "Name": "state13",
+        "testsPerOneMillion": "343"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -635.554845677036,
+              176.6623315440527
+            ],
+            [
+              -635.5245830622474,
+              173.42451895521847
+            ],
+            [
+              -629.8903882950038,
+              173.42128757273773
+            ],
+            [
+              -629.642911312345,
+              168.45831846147215
+            ],
+            [
+              -627.6909470602337,
+              168.45894458084163
+            ],
+            [
+              -627.926390956099,
+              176.74942742469548
+            ],
+            [
+              -635.554845677036,
+              176.6623315440527
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "deaths": "327",
+        "population": "969",
+        "todayDeaths": "903",
+        "tests": "517",
+        "deathsPerOneMillion": "967",
+        "cases": "29860",
+        "state": "Port Endlda",
+        "name": "Port Endlda",
+        "recovered": "847",
+        "casesPerOneMillion": "364",
+        "todayCases": "473",
+        "description": "Port Endlda is a coastal, small town, known for its space programme.",
+        "active": "374",
+        "Name": "state14",
+        "testsPerOneMillion": "285"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -643.6833486721661,
+              166.13249459544264
+            ],
+            [
+              -643.7556495144215,
+              157.83898434944058
+            ],
+            [
+              -640.0748496414362,
+              157.787210179493
+            ],
+            [
+              -640.091242772024,
+              166.08196799585536
+            ],
+            [
+              -643.6833486721661,
+              166.13249459544264
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "deaths": "236",
+        "population": "575",
+        "todayDeaths": "54",
+        "tests": "1352",
+        "deathsPerOneMillion": "952",
+        "cases": "58401",
+        "state": "Stalborneearl",
+        "name": "Stalborneearl",
+        "recovered": "457",
+        "casesPerOneMillion": "843",
+        "todayCases": "670",
+        "description": "Stalborneearl is a sprawling town, known for its sports team.",
+        "active": "116",
+        "Name": "state15",
+        "testsPerOneMillion": "720"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -627.9634589508574,
+              171.74126408275384
+            ],
+            [
+              -627.8553484307729,
+              167.7508583274471
+            ],
+            [
+              -621.1584371304148,
+              167.81349578830407
+            ],
+            [
+              -621.1799817161902,
+              171.93835568107505
+            ],
+            [
+              -627.9634589508574,
+              171.74126408275384
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "deaths": "331",
+        "population": "497",
+        "todayDeaths": "167",
+        "tests": "8550",
+        "deathsPerOneMillion": "414",
+        "cases": "94954",
+        "state": "Port Chardwy",
+        "name": "Port Chardwy",
+        "recovered": "412",
+        "casesPerOneMillion": "586",
+        "todayCases": "522",
+        "description": "Port Chardwy is a coastal, small town, known for its elaborate legends.",
+        "active": "750",
+        "Name": "state16",
+        "testsPerOneMillion": "407"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -643.4603216738328,
+              176.7623440459608
+            ],
+            [
+              -643.4137964670552,
+              166.0285878568049
+            ],
+            [
+              -638.889030773101,
+              166.125168611255
+            ],
+            [
+              -638.8475711949139,
+              176.7695098569414
+            ],
+            [
+              -643.4603216738328,
+              176.7623440459608
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "deaths": "362",
+        "population": "967",
+        "todayDeaths": "894",
+        "tests": "5427",
+        "deathsPerOneMillion": "211",
+        "cases": "46198",
+        "state": "Thalldsorsle",
+        "name": "Thalldsorsle",
+        "recovered": "974",
+        "casesPerOneMillion": "749",
+        "todayCases": "654",
+        "description": "Thalldsorsle is a large town, known for its elaborate legends.",
+        "active": "945",
+        "Name": "state17",
+        "testsPerOneMillion": "756"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -627.4469281284752,
+              164.63631714688358
+            ],
+            [
+              -627.6033540487673,
+              159.75835952991102
+            ],
+            [
+              -621.1285528327373,
+              159.63863502128868
+            ],
+            [
+              -621.0152613258058,
+              155.51336718839295
+            ],
+            [
+              -618.8420689758376,
+              155.50295543344393
+            ],
+            [
+              -618.8430729419675,
+              164.55074423239213
+            ],
+            [
+              -627.4469281284752,
+              164.63631714688358
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "deaths": "311",
+        "population": "548",
+        "todayDeaths": "983",
+        "tests": "5493",
+        "deathsPerOneMillion": "706",
+        "cases": "17946",
+        "state": "Aylshden",
+        "name": "Aylshden",
+        "recovered": "102",
+        "casesPerOneMillion": "157",
+        "todayCases": "749",
+        "description": "Aylshden is a large city, known for its arena.",
+        "active": "347",
+        "Name": "state18",
+        "testsPerOneMillion": "635"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -638.8086263732932,
+              166.18139960566307
+            ],
+            [
+              -640.4519733850834,
+              166.16865440782706
+            ],
+            [
+              -640.1568192135214,
+              160.67683099386218
+            ],
+            [
+              -638.8086263732932,
+              166.18139960566307
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "deaths": "21",
+        "population": "212",
+        "todayDeaths": "740",
+        "tests": "3095",
+        "deathsPerOneMillion": "695",
+        "cases": "97285",
+        "state": "New Sleroynen",
+        "name": "New Sleroynen",
+        "recovered": "627",
+        "casesPerOneMillion": "557",
+        "todayCases": "243",
+        "description": "New Sleroynen is a sprawling town, known for progressive values.",
+        "active": "39",
+        "Name": "state19",
+        "testsPerOneMillion": "896"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -640.7560624803715,
+              154.53272252591802
+            ],
+            [
+              -643.4470135332294,
+              157.61848565086396
+            ],
+            [
+              -643.3277131552608,
+              154.47148631116764
+            ],
+            [
+              -640.7560624803715,
+              154.53272252591802
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "deaths": "122",
+        "population": "798",
+        "todayDeaths": "137",
+        "tests": "6917",
+        "deathsPerOneMillion": "66",
+        "cases": "99222",
+        "state": "La Thaxtedlean",
+        "name": "La Thaxtedlean",
+        "recovered": "22",
+        "casesPerOneMillion": "518",
+        "todayCases": "113",
+        "description": "La Thaxtedlean is a small city, known for the battle of La Thaxtedlean.",
+        "active": "197",
+        "Name": "state20",
+        "testsPerOneMillion": "19"
+      }
     }
-  ]
+  ],
+  "type": "FeatureCollection"
 }
