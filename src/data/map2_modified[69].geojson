@@ -1,1 +1,957 @@
-{"crs": {"type": "name", "properties": {"name": "urn:ogc:def:crs:OGC:1.3:CRS84"}}, "coordinateSystem": "custom", "name": "MAP2QGIS", "properties": {"mapType": "heatmap"}, "features": [{"type": "Feature", "geometry": {"type": "Polygon", "coordinates": [[[-606.8240626286822, 169.93884857626628], [-598.3978714329483, 169.95736992920578], [-598.5525761643353, 176.19432662139033], [-606.9912090125347, 177.22895953664383], [-606.8240626286822, 169.93884857626628]]]}, "properties": {"deaths": "171", "population": "499", "todayDeaths": "209", "tests": "2500", "deathsPerOneMillion": "376", "cases": "19560", "state": "West Pricebo", "name": "West Pricebo", "recovered": "850", "casesPerOneMillion": "403", "todayCases": "203", "description": "West Pricebo is a small city, known for being the birthplace of a famous detective.", "active": "832", "Name": "state1", "testsPerOneMillion": "923"}}, {"type": "Feature", "geometry": {"type": "Polygon", "coordinates": [[[-589.8421788463601, 182.82034231328456], [-589.2177848282461, 177.6242613748207], [-599.5764950704094, 176.4688339817708], [-598.3128765571812, 183.05322194763588], [-589.8421788463601, 182.82034231328456]]]}, "properties": {"deaths": "103", "population": "276", "todayDeaths": "255", "tests": "7892", "deathsPerOneMillion": "619", "cases": "82960", "state": "Fort Rocamp", "name": "Fort Rocamp", "recovered": "312", "casesPerOneMillion": "916", "todayCases": "128", "description": "Fort Rocamp is a sprawling town, known for its space programme.", "active": "137", "Name": "state2", "testsPerOneMillion": "506"}}, {"type": "Feature", "geometry": {"type": "Polygon", "coordinates": [[[-605.8381927499923, 183.04588971896547], [-605.8381927499923, 176.5705892187713], [-599.3185408765091, 176.48188647219328], [-598.3871620374401, 182.82413285252045], [-599.7177032361102, 183.17894383883248], [-605.8381927499923, 183.04588971896547]]]}, "properties": {"deaths": "162", "population": "229", "todayDeaths": "724", "tests": "3335", "deathsPerOneMillion": "738", "cases": "34996", "state": "Juanbourne", "name": "Juanbourne", "recovered": "934", "casesPerOneMillion": "729", "todayCases": "888", "description": "Juanbourne is a small town, known for being the setting of a famous story.", "active": "385", "Name": "state3", "testsPerOneMillion": "254"}}, {"type": "Feature", "geometry": {"type": "Polygon", "coordinates": [[[-596.5464967871849, 167.5228212138357], [-590.8693651053658, 167.50878805416625], [-590.9527971031512, 174.82642343433832], [-596.5409904472156, 174.7965795653874], [-596.5464967871849, 167.5228212138357]]]}, "properties": {"deaths": "204", "population": "215", "todayDeaths": "983", "tests": "2740", "deathsPerOneMillion": "162", "cases": "34128", "state": "Rstonpen Upon Rderportmere", "name": "Rstonpen Upon Rderportmere", "recovered": "493", "casesPerOneMillion": "350", "todayCases": "567", "description": "Rstonpen Upon Rderportmere is a coastal, small city, known for its ghost stories.", "active": "23", "Name": "state5", "testsPerOneMillion": "986"}}, {"type": "Feature", "geometry": {"type": "Polygon", "coordinates": [[[-591.3500738633536, 179.41670099234443], [-586.7818824145864, 179.37234961905546], [-586.7375310412974, 170.4133722146772], [-591.3944252366426, 170.3246694680992], [-591.3500738633536, 179.41670099234443]]]}, "properties": {"deaths": "269", "population": "88", "todayDeaths": "664", "tests": "5976", "deathsPerOneMillion": "369", "cases": "90971", "state": "Port Nersthat", "name": "Port Nersthat", "recovered": "202", "casesPerOneMillion": "293", "todayCases": "605", "description": "Port Nersthat is a coastal, small town, known for its space programme.", "active": "20", "Name": "state4", "testsPerOneMillion": "181"}}, {"type": "Feature", "geometry": {"type": "Polygon", "coordinates": [[[-581.2904136187229, 180.2065314580136], [-581.1472820311747, 172.84506050415766], [-584.8730234676369, 172.86186713351148], [-587.3789296372802, 175.85931573772095], [-586.0362087618197, 180.21579640603986], [-581.2904136187229, 180.2065314580136]]]}, "properties": {"deaths": "181", "population": "962", "todayDeaths": "70", "tests": "8862", "deathsPerOneMillion": "525", "cases": "56258", "state": "Gool Heath", "name": "Gool Heath", "recovered": "583", "casesPerOneMillion": "113", "todayCases": "163", "description": "Gool Heath is a sprawling town, known for its tech industry.", "active": "162", "Name": "state6", "testsPerOneMillion": "658"}}, {"type": "Feature", "geometry": {"type": "Polygon", "coordinates": [[[-603.7007642274467, 158.07614467819963], [-603.6826389826095, 164.59592221054106], [-598.8481999997804, 164.57101751505286], [-598.8663252446177, 158.05123998271142], [-603.7007642274467, 158.07614467819963]]]}, "properties": {"deaths": "182", "population": "910", "todayDeaths": "760", "tests": "5984", "deathsPerOneMillion": "615", "cases": "62980", "state": "Grandwehithewick", "name": "Grandwehithewick", "recovered": "727", "casesPerOneMillion": "560", "todayCases": "770", "description": "Grandwehithewick is a large city, known for the Grandwehithewick music festival.", "active": "160", "Name": "state7", "testsPerOneMillion": "291"}}, {"type": "Feature", "geometry": {"type": "Polygon", "coordinates": [[[-587.1508131254963, 168.9996719432792], [-586.0734586276781, 173.05265238798543], [-579.4648002381299, 173.21835629179864], [-579.26056832743, 168.43255842379702], [-580.8596695233539, 168.4383005141201], [-587.1508131254963, 168.9996719432792]]]}, "properties": {"deaths": "192", "population": "760", "todayDeaths": "452", "tests": "7349", "deathsPerOneMillion": "407", "cases": "66051", "state": "Fort Paignlu Aux Grangeas", "name": "Fort Paignlu Aux Grangeas", "recovered": "715", "casesPerOneMillion": "851", "todayCases": "133", "description": "Fort Paignlu Aux Grangeas is a small town, known for elopement.", "active": "706", "Name": "state8", "testsPerOneMillion": "627"}}, {"type": "Feature", "geometry": {"type": "Polygon", "coordinates": [[[-606.0019644324757, 158.18258394695007], [-603.6071202337415, 158.20753348383937], [-603.5563201654589, 170.36099845792594], [-606.0394002690183, 170.29077589747155], [-606.0019644324757, 158.18258394695007]]]}, "properties": {"deaths": "194", "population": "42", "todayDeaths": "64", "tests": "3085", "deathsPerOneMillion": "760", "cases": "38598", "state": "Di Valley", "name": "Di Valley", "recovered": "378", "casesPerOneMillion": "29", "todayCases": "605", "description": "Di Valley is a sprawling town, known for its university.", "active": "98", "Name": "state9", "testsPerOneMillion": "365"}}, {"type": "Feature", "geometry": {"type": "Polygon", "coordinates": [[[-584.0025477496338, 160.8433290368294], [-584.0025477496338, 158.09354389291133], [-581.2084112324268, 158.09354389291133], [-581.2527626057157, 160.79897766354043], [-584.0025477496338, 160.8433290368294]]]}, "properties": {"deaths": "132", "population": "754", "todayDeaths": "201", "tests": "716", "deathsPerOneMillion": "311", "cases": "44826", "state": "Cleahoemouth", "name": "Cleahoemouth", "recovered": "590", "casesPerOneMillion": "478", "todayCases": "94", "description": "Cleahoemouth is a coastal, large town, known for its tech industry.", "active": "727", "Name": "state10", "testsPerOneMillion": "27"}}, {"type": "Feature", "geometry": {"type": "Polygon", "coordinates": [[[-581.2816650278015, 180.32360848631893], [-581.2920146427363, 182.98467075746257], [-590.8274877810007, 182.94758463728], [-581.2816650278015, 180.32360848631893]]]}, "properties": {"deaths": "21", "population": "678", "todayDeaths": "522", "tests": "7976", "deathsPerOneMillion": "438", "cases": "78633", "state": "New Jormuchchien", "name": "New Jormuchchien", "recovered": "226", "casesPerOneMillion": "782", "todayCases": "293", "description": "New Jormuchchien is a small town, known for its historic significance.", "active": "81", "Name": "state11", "testsPerOneMillion": "546"}}, {"type": "Feature", "geometry": {"type": "Polygon", "coordinates": [[[-581.0461188142277, 180.13189134212084], [-590.3596870698562, 180.2795528913411], [-590.4887065480119, 182.8521380581966], [-581.0461188142277, 180.13189134212084]]]}, "properties": {"deaths": "289", "population": "218", "todayDeaths": "464", "tests": "6722", "deathsPerOneMillion": "80", "cases": "25254", "state": "Seking", "name": "Seking", "recovered": "393", "casesPerOneMillion": "598", "todayCases": "427", "description": "Seking is a small town, known for its palace.", "active": "449", "Name": "state12", "testsPerOneMillion": "826"}}, {"type": "Feature", "geometry": {"type": "Polygon", "coordinates": [[[-583.7511931256305, 162.7635277282302], [-584.9929227406076, 162.77996866442595], [-584.9652941025506, 158.16665574192518], [-583.8122594600718, 158.15138915831494], [-583.7511931256305, 162.7635277282302]]]}, "properties": {"deaths": "119", "population": "113", "todayDeaths": "720", "tests": "7012", "deathsPerOneMillion": "605", "cases": "29694", "state": "South Coeurchary", "name": "South Coeurchary", "recovered": "374", "casesPerOneMillion": "569", "todayCases": "448", "description": "South Coeurchary is a small city, known for a famous invention.", "active": "142", "Name": "state13", "testsPerOneMillion": "352"}}, {"type": "Feature", "geometry": {"type": "Polygon", "coordinates": [[[-591.362178558819, 171.11716479651844], [-583.7337423531108, 171.02846204994046], [-583.6893909798217, 162.7347552448972], [-585.6408514045378, 162.7791066181862], [-585.7739055244048, 167.74646042655436], [-591.406529932108, 167.87951454642135], [-591.362178558819, 171.11716479651844]]]}, "properties": {"deaths": "47", "population": "126", "todayDeaths": "579", "tests": "7806", "deathsPerOneMillion": "538", "cases": "68489", "state": "Cape Smereley", "name": "Cape Smereley", "recovered": "264", "casesPerOneMillion": "588", "todayCases": "998", "description": "Cape Smereley is a small city, known for its historic significance.", "active": "885", "Name": "state14", "testsPerOneMillion": "520"}}, {"type": "Feature", "geometry": {"type": "Polygon", "coordinates": [[[-583.6893909798218, 169.03937147051795], [-580.0969297434128, 169.03937147051795], [-579.9638756235457, 160.7456646654747], [-583.6450396065329, 160.7456646654747], [-583.6893909798218, 169.03937147051795]]]}, "properties": {"deaths": "272", "population": "467", "todayDeaths": "114", "tests": "2854", "deathsPerOneMillion": "738", "cases": "96841", "state": "Red Thirsksouthwark", "name": "Red Thirsksouthwark", "recovered": "730", "casesPerOneMillion": "830", "todayCases": "102", "description": "Red Thirsksouthwark is a sprawling city, known for its arena.", "active": "171", "Name": "state15", "testsPerOneMillion": "816"}}, {"type": "Feature", "geometry": {"type": "Polygon", "coordinates": [[[-603.0921895396614, 164.5369541958566], [-603.2385678015024, 171.32171520092078], [-599.1136621059566, 171.31242504376434], [-599.1010871275478, 164.61523262557256], [-603.0921895396614, 164.5369541958566]]]}, "properties": {"deaths": "39", "population": "179", "todayDeaths": "216", "tests": "6808", "deathsPerOneMillion": "238", "cases": "80642", "state": "Hexrellsea", "name": "Hexrellsea", "recovered": "352", "casesPerOneMillion": "448", "todayCases": "568", "description": "Hexrellsea is a coastal, large town, known for its car factory.", "active": "245", "Name": "state16", "testsPerOneMillion": "113"}}, {"type": "Feature", "geometry": {"type": "Polygon", "coordinates": [[[-585.800995020525, 167.57463911143003], [-596.5348444449992, 167.5874084428031], [-596.4632602055257, 163.06217826921255], [-585.8193103927904, 162.96191942812465], [-585.800995020525, 167.57463911143003]]]}, "properties": {"deaths": "312", "population": "107", "todayDeaths": "136", "tests": "9660", "deathsPerOneMillion": "836", "cases": "38289", "state": "Royal Mseytinssaint", "name": "Royal Mseytinssaint", "recovered": "37", "casesPerOneMillion": "466", "todayCases": "134", "description": "Royal Mseytinssaint is a small town, known for conservative values.", "active": "792", "Name": "state17", "testsPerOneMillion": "536"}}, {"type": "Feature", "geometry": {"type": "Polygon", "coordinates": [[[-590.1780803972813, 158.0852604588697], [-598.7823324884836, 158.10745832208164], [-598.8499790037661, 167.15499429091264], [-596.6767689159731, 167.1605897279766], [-596.5330953259663, 163.03626826157736], [-590.0575879036822, 162.96423792761314], [-590.1780803972813, 158.0852604588697]]]}, "properties": {"deaths": "198", "population": "923", "todayDeaths": "300", "tests": "6722", "deathsPerOneMillion": "553", "cases": "92830", "state": "Mount Rahumpauls", "name": "Mount Rahumpauls", "recovered": "96", "casesPerOneMillion": "963", "todayCases": "250", "description": "Mount Rahumpauls is a small town at the foot of a mountain. It is known for its mining heritage.", "active": "593", "Name": "state18", "testsPerOneMillion": "711"}}, {"type": "Feature", "geometry": {"type": "Polygon", "coordinates": [[[-596.8445395304902, 172.8689948404432], [-598.4827618699547, 172.7386897841051], [-597.7953874182297, 167.28206475041637], [-596.8445395304902, 172.8689948404432]]]}, "properties": {"deaths": "244", "population": "70", "todayDeaths": "993", "tests": "7275", "deathsPerOneMillion": "562", "cases": "52862", "state": "Berghclearin", "name": "Berghclearin", "recovered": "199", "casesPerOneMillion": "554", "todayCases": "170", "description": "Berghclearin is a large town, known for its sports team.", "active": "412", "Name": "state19", "testsPerOneMillion": "949"}}, {"type": "Feature", "geometry": {"type": "Polygon", "coordinates": [[[-589.3927393295611, 180.22808927473983], [-586.8204245244984, 180.24635430446136], [-586.7537153535451, 177.09780109532807], [-589.3927393295611, 180.22808927473983]]]}, "properties": {"deaths": "186", "population": "484", "todayDeaths": "485", "tests": "9984", "deathsPerOneMillion": "991", "cases": "90068", "state": "Slingwoulds", "name": "Slingwoulds", "recovered": "486", "casesPerOneMillion": "928", "todayCases": "226", "description": "Slingwoulds is a sprawling town, known for its space programme.", "active": "913", "Name": "state20", "testsPerOneMillion": "575"}}], "type": "FeatureCollection"}
+{
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -606.8240626286822,
+              169.93884857626628
+            ],
+            [
+              -598.3978714329483,
+              169.95736992920578
+            ],
+            [
+              -598.5525761643353,
+              176.19432662139033
+            ],
+            [
+              -606.9912090125347,
+              177.22895953664383
+            ],
+            [
+              -606.8240626286822,
+              169.93884857626628
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "deaths": "171",
+        "population": "499",
+        "todayDeaths": "209",
+        "tests": "2500",
+        "deathsPerOneMillion": "376",
+        "cases": "19560",
+        "state": "West Pricebo",
+        "name": "West Pricebo",
+        "recovered": "850",
+        "casesPerOneMillion": "403",
+        "todayCases": "203",
+        "description": "West Pricebo is a small city, known for being the birthplace of a famous detective.",
+        "active": "832",
+        "Name": "state1",
+        "testsPerOneMillion": "923"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -589.8421788463601,
+              182.82034231328456
+            ],
+            [
+              -589.2177848282461,
+              177.6242613748207
+            ],
+            [
+              -599.5764950704094,
+              176.4688339817708
+            ],
+            [
+              -598.3128765571812,
+              183.05322194763588
+            ],
+            [
+              -589.8421788463601,
+              182.82034231328456
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "deaths": "103",
+        "population": "276",
+        "todayDeaths": "255",
+        "tests": "7892",
+        "deathsPerOneMillion": "619",
+        "cases": "82960",
+        "state": "Fort Rocamp",
+        "name": "Fort Rocamp",
+        "recovered": "312",
+        "casesPerOneMillion": "916",
+        "todayCases": "128",
+        "description": "Fort Rocamp is a sprawling town, known for its space programme.",
+        "active": "137",
+        "Name": "state2",
+        "testsPerOneMillion": "506"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -605.8381927499923,
+              183.04588971896547
+            ],
+            [
+              -605.8381927499923,
+              176.5705892187713
+            ],
+            [
+              -599.3185408765091,
+              176.48188647219328
+            ],
+            [
+              -598.3871620374401,
+              182.82413285252045
+            ],
+            [
+              -599.7177032361102,
+              183.17894383883248
+            ],
+            [
+              -605.8381927499923,
+              183.04588971896547
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "deaths": "162",
+        "population": "229",
+        "todayDeaths": "724",
+        "tests": "3335",
+        "deathsPerOneMillion": "738",
+        "cases": "34996",
+        "state": "Juanbourne",
+        "name": "Juanbourne",
+        "recovered": "934",
+        "casesPerOneMillion": "729",
+        "todayCases": "888",
+        "description": "Juanbourne is a small town, known for being the setting of a famous story.",
+        "active": "385",
+        "Name": "state3",
+        "testsPerOneMillion": "254"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -596.5464967871849,
+              167.5228212138357
+            ],
+            [
+              -590.8693651053658,
+              167.50878805416625
+            ],
+            [
+              -590.9527971031512,
+              174.82642343433832
+            ],
+            [
+              -596.5409904472156,
+              174.7965795653874
+            ],
+            [
+              -596.5464967871849,
+              167.5228212138357
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "deaths": "204",
+        "population": "215",
+        "todayDeaths": "983",
+        "tests": "2740",
+        "deathsPerOneMillion": "162",
+        "cases": "34128",
+        "state": "Rstonpen Upon Rderportmere",
+        "name": "Rstonpen Upon Rderportmere",
+        "recovered": "493",
+        "casesPerOneMillion": "350",
+        "todayCases": "567",
+        "description": "Rstonpen Upon Rderportmere is a coastal, small city, known for its ghost stories.",
+        "active": "23",
+        "Name": "state5",
+        "testsPerOneMillion": "986"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -591.3500738633536,
+              179.41670099234443
+            ],
+            [
+              -586.7818824145864,
+              179.37234961905546
+            ],
+            [
+              -586.7375310412974,
+              170.4133722146772
+            ],
+            [
+              -591.3944252366426,
+              170.3246694680992
+            ],
+            [
+              -591.3500738633536,
+              179.41670099234443
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "deaths": "269",
+        "population": "88",
+        "todayDeaths": "664",
+        "tests": "5976",
+        "deathsPerOneMillion": "369",
+        "cases": "90971",
+        "state": "Port Nersthat",
+        "name": "Port Nersthat",
+        "recovered": "202",
+        "casesPerOneMillion": "293",
+        "todayCases": "605",
+        "description": "Port Nersthat is a coastal, small town, known for its space programme.",
+        "active": "20",
+        "Name": "state4",
+        "testsPerOneMillion": "181"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -581.2904136187229,
+              180.2065314580136
+            ],
+            [
+              -581.1472820311747,
+              172.84506050415766
+            ],
+            [
+              -584.8730234676369,
+              172.86186713351148
+            ],
+            [
+              -587.3789296372802,
+              175.85931573772095
+            ],
+            [
+              -586.0362087618197,
+              180.21579640603986
+            ],
+            [
+              -581.2904136187229,
+              180.2065314580136
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "deaths": "181",
+        "population": "962",
+        "todayDeaths": "70",
+        "tests": "8862",
+        "deathsPerOneMillion": "525",
+        "cases": "56258",
+        "state": "Gool Heath",
+        "name": "Gool Heath",
+        "recovered": "583",
+        "casesPerOneMillion": "113",
+        "todayCases": "163",
+        "description": "Gool Heath is a sprawling town, known for its tech industry.",
+        "active": "162",
+        "Name": "state6",
+        "testsPerOneMillion": "658"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -603.7007642274467,
+              158.07614467819963
+            ],
+            [
+              -603.6826389826095,
+              164.59592221054106
+            ],
+            [
+              -598.8481999997804,
+              164.57101751505286
+            ],
+            [
+              -598.8663252446177,
+              158.05123998271142
+            ],
+            [
+              -603.7007642274467,
+              158.07614467819963
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "deaths": "182",
+        "population": "910",
+        "todayDeaths": "760",
+        "tests": "5984",
+        "deathsPerOneMillion": "615",
+        "cases": "62980",
+        "state": "Grandwehithewick",
+        "name": "Grandwehithewick",
+        "recovered": "727",
+        "casesPerOneMillion": "560",
+        "todayCases": "770",
+        "description": "Grandwehithewick is a large city, known for the Grandwehithewick music festival.",
+        "active": "160",
+        "Name": "state7",
+        "testsPerOneMillion": "291"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -587.1508131254963,
+              168.9996719432792
+            ],
+            [
+              -586.0734586276781,
+              173.05265238798543
+            ],
+            [
+              -579.4648002381299,
+              173.21835629179864
+            ],
+            [
+              -579.26056832743,
+              168.43255842379702
+            ],
+            [
+              -580.8596695233539,
+              168.4383005141201
+            ],
+            [
+              -587.1508131254963,
+              168.9996719432792
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "deaths": "192",
+        "population": "760",
+        "todayDeaths": "452",
+        "tests": "7349",
+        "deathsPerOneMillion": "407",
+        "cases": "66051",
+        "state": "Fort Paignlu Aux Grangeas",
+        "name": "Fort Paignlu Aux Grangeas",
+        "recovered": "715",
+        "casesPerOneMillion": "851",
+        "todayCases": "133",
+        "description": "Fort Paignlu Aux Grangeas is a small town, known for elopement.",
+        "active": "706",
+        "Name": "state8",
+        "testsPerOneMillion": "627"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -606.0019644324757,
+              158.18258394695007
+            ],
+            [
+              -603.6071202337415,
+              158.20753348383937
+            ],
+            [
+              -603.5563201654589,
+              170.36099845792594
+            ],
+            [
+              -606.0394002690183,
+              170.29077589747155
+            ],
+            [
+              -606.0019644324757,
+              158.18258394695007
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "deaths": "194",
+        "population": "42",
+        "todayDeaths": "64",
+        "tests": "3085",
+        "deathsPerOneMillion": "760",
+        "cases": "38598",
+        "state": "Di Valley",
+        "name": "Di Valley",
+        "recovered": "378",
+        "casesPerOneMillion": "29",
+        "todayCases": "605",
+        "description": "Di Valley is a sprawling town, known for its university.",
+        "active": "98",
+        "Name": "state9",
+        "testsPerOneMillion": "365"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -584.0025477496338,
+              160.8433290368294
+            ],
+            [
+              -584.0025477496338,
+              158.09354389291133
+            ],
+            [
+              -581.2084112324268,
+              158.09354389291133
+            ],
+            [
+              -581.2527626057157,
+              160.79897766354043
+            ],
+            [
+              -584.0025477496338,
+              160.8433290368294
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "deaths": "132",
+        "population": "754",
+        "todayDeaths": "201",
+        "tests": "716",
+        "deathsPerOneMillion": "311",
+        "cases": "44826",
+        "state": "Cleahoemouth",
+        "name": "Cleahoemouth",
+        "recovered": "590",
+        "casesPerOneMillion": "478",
+        "todayCases": "94",
+        "description": "Cleahoemouth is a coastal, large town, known for its tech industry.",
+        "active": "727",
+        "Name": "state10",
+        "testsPerOneMillion": "27"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -581.2816650278015,
+              180.32360848631893
+            ],
+            [
+              -581.2920146427363,
+              182.98467075746257
+            ],
+            [
+              -590.8274877810007,
+              182.94758463728
+            ],
+            [
+              -581.2816650278015,
+              180.32360848631893
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "deaths": "21",
+        "population": "678",
+        "todayDeaths": "522",
+        "tests": "7976",
+        "deathsPerOneMillion": "438",
+        "cases": "78633",
+        "state": "New Jormuchchien",
+        "name": "New Jormuchchien",
+        "recovered": "226",
+        "casesPerOneMillion": "782",
+        "todayCases": "293",
+        "description": "New Jormuchchien is a small town, known for its historic significance.",
+        "active": "81",
+        "Name": "state11",
+        "testsPerOneMillion": "546"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -581.0461188142277,
+              180.13189134212084
+            ],
+            [
+              -590.3596870698562,
+              180.2795528913411
+            ],
+            [
+              -590.4887065480119,
+              182.8521380581966
+            ],
+            [
+              -581.0461188142277,
+              180.13189134212084
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "deaths": "289",
+        "population": "218",
+        "todayDeaths": "464",
+        "tests": "6722",
+        "deathsPerOneMillion": "80",
+        "cases": "25254",
+        "state": "Seking",
+        "name": "Seking",
+        "recovered": "393",
+        "casesPerOneMillion": "598",
+        "todayCases": "427",
+        "description": "Seking is a small town, known for its palace.",
+        "active": "449",
+        "Name": "state12",
+        "testsPerOneMillion": "826"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -583.7511931256305,
+              162.7635277282302
+            ],
+            [
+              -584.9929227406076,
+              162.77996866442595
+            ],
+            [
+              -584.9652941025506,
+              158.16665574192518
+            ],
+            [
+              -583.8122594600718,
+              158.15138915831494
+            ],
+            [
+              -583.7511931256305,
+              162.7635277282302
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "deaths": "119",
+        "population": "113",
+        "todayDeaths": "720",
+        "tests": "7012",
+        "deathsPerOneMillion": "605",
+        "cases": "29694",
+        "state": "South Coeurchary",
+        "name": "South Coeurchary",
+        "recovered": "374",
+        "casesPerOneMillion": "569",
+        "todayCases": "448",
+        "description": "South Coeurchary is a small city, known for a famous invention.",
+        "active": "142",
+        "Name": "state13",
+        "testsPerOneMillion": "352"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -591.362178558819,
+              171.11716479651844
+            ],
+            [
+              -583.7337423531108,
+              171.02846204994046
+            ],
+            [
+              -583.6893909798217,
+              162.7347552448972
+            ],
+            [
+              -585.6408514045378,
+              162.7791066181862
+            ],
+            [
+              -585.7739055244048,
+              167.74646042655436
+            ],
+            [
+              -591.406529932108,
+              167.87951454642135
+            ],
+            [
+              -591.362178558819,
+              171.11716479651844
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "deaths": "47",
+        "population": "126",
+        "todayDeaths": "579",
+        "tests": "7806",
+        "deathsPerOneMillion": "538",
+        "cases": "68489",
+        "state": "Cape Smereley",
+        "name": "Cape Smereley",
+        "recovered": "264",
+        "casesPerOneMillion": "588",
+        "todayCases": "998",
+        "description": "Cape Smereley is a small city, known for its historic significance.",
+        "active": "885",
+        "Name": "state14",
+        "testsPerOneMillion": "520"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -583.6893909798218,
+              169.03937147051795
+            ],
+            [
+              -580.0969297434128,
+              169.03937147051795
+            ],
+            [
+              -579.9638756235457,
+              160.7456646654747
+            ],
+            [
+              -583.6450396065329,
+              160.7456646654747
+            ],
+            [
+              -583.6893909798218,
+              169.03937147051795
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "deaths": "272",
+        "population": "467",
+        "todayDeaths": "114",
+        "tests": "2854",
+        "deathsPerOneMillion": "738",
+        "cases": "96841",
+        "state": "Red Thirsksouthwark",
+        "name": "Red Thirsksouthwark",
+        "recovered": "730",
+        "casesPerOneMillion": "830",
+        "todayCases": "102",
+        "description": "Red Thirsksouthwark is a sprawling city, known for its arena.",
+        "active": "171",
+        "Name": "state15",
+        "testsPerOneMillion": "816"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -603.0921895396614,
+              164.5369541958566
+            ],
+            [
+              -603.2385678015024,
+              171.32171520092078
+            ],
+            [
+              -599.1136621059566,
+              171.31242504376434
+            ],
+            [
+              -599.1010871275478,
+              164.61523262557256
+            ],
+            [
+              -603.0921895396614,
+              164.5369541958566
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "deaths": "39",
+        "population": "179",
+        "todayDeaths": "216",
+        "tests": "6808",
+        "deathsPerOneMillion": "238",
+        "cases": "80642",
+        "state": "Hexrellsea",
+        "name": "Hexrellsea",
+        "recovered": "352",
+        "casesPerOneMillion": "448",
+        "todayCases": "568",
+        "description": "Hexrellsea is a coastal, large town, known for its car factory.",
+        "active": "245",
+        "Name": "state16",
+        "testsPerOneMillion": "113"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -585.800995020525,
+              167.57463911143003
+            ],
+            [
+              -596.5348444449992,
+              167.5874084428031
+            ],
+            [
+              -596.4632602055257,
+              163.06217826921255
+            ],
+            [
+              -585.8193103927904,
+              162.96191942812465
+            ],
+            [
+              -585.800995020525,
+              167.57463911143003
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "deaths": "312",
+        "population": "107",
+        "todayDeaths": "136",
+        "tests": "9660",
+        "deathsPerOneMillion": "836",
+        "cases": "38289",
+        "state": "Royal Mseytinssaint",
+        "name": "Royal Mseytinssaint",
+        "recovered": "37",
+        "casesPerOneMillion": "466",
+        "todayCases": "134",
+        "description": "Royal Mseytinssaint is a small town, known for conservative values.",
+        "active": "792",
+        "Name": "state17",
+        "testsPerOneMillion": "536"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -590.1780803972813,
+              158.0852604588697
+            ],
+            [
+              -598.7823324884836,
+              158.10745832208164
+            ],
+            [
+              -598.8499790037661,
+              167.15499429091264
+            ],
+            [
+              -596.6767689159731,
+              167.1605897279766
+            ],
+            [
+              -596.5330953259663,
+              163.03626826157736
+            ],
+            [
+              -590.0575879036822,
+              162.96423792761314
+            ],
+            [
+              -590.1780803972813,
+              158.0852604588697
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "deaths": "198",
+        "population": "923",
+        "todayDeaths": "300",
+        "tests": "6722",
+        "deathsPerOneMillion": "553",
+        "cases": "92830",
+        "state": "Mount Rahumpauls",
+        "name": "Mount Rahumpauls",
+        "recovered": "96",
+        "casesPerOneMillion": "963",
+        "todayCases": "250",
+        "description": "Mount Rahumpauls is a small town at the foot of a mountain. It is known for its mining heritage.",
+        "active": "593",
+        "Name": "state18",
+        "testsPerOneMillion": "711"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -596.8445395304902,
+              172.8689948404432
+            ],
+            [
+              -598.4827618699547,
+              172.7386897841051
+            ],
+            [
+              -597.7953874182297,
+              167.28206475041637
+            ],
+            [
+              -596.8445395304902,
+              172.8689948404432
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "deaths": "244",
+        "population": "70",
+        "todayDeaths": "993",
+        "tests": "7275",
+        "deathsPerOneMillion": "562",
+        "cases": "52862",
+        "state": "Berghclearin",
+        "name": "Berghclearin",
+        "recovered": "199",
+        "casesPerOneMillion": "554",
+        "todayCases": "170",
+        "description": "Berghclearin is a large town, known for its sports team.",
+        "active": "412",
+        "Name": "state19",
+        "testsPerOneMillion": "949"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -589.3927393295611,
+              180.22808927473983
+            ],
+            [
+              -586.8204245244984,
+              180.24635430446136
+            ],
+            [
+              -586.7537153535451,
+              177.09780109532807
+            ],
+            [
+              -589.3927393295611,
+              180.22808927473983
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "deaths": "186",
+        "population": "484",
+        "todayDeaths": "485",
+        "tests": "9984",
+        "deathsPerOneMillion": "991",
+        "cases": "90068",
+        "state": "Slingwoulds",
+        "name": "Slingwoulds",
+        "recovered": "486",
+        "casesPerOneMillion": "928",
+        "todayCases": "226",
+        "description": "Slingwoulds is a sprawling town, known for its space programme.",
+        "active": "913",
+        "Name": "state20",
+        "testsPerOneMillion": "575"
+      }
+    }
+  ],
+  "type": "FeatureCollection"
+}
