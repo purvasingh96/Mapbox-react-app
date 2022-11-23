@@ -1,957 +1,920 @@
 {
   "features": [
     {
-      "type": "Feature",
       "geometry": {
         "type": "Polygon",
         "coordinates": [
           [
             [
-              -603.6295092600276,
-              171.08888778898196
+              2.795209571323042,
+              -5.180554448743599
             ],
             [
-              -595.2033180642936,
-              171.10740914192147
+              11.221400767057006,
+              -5.162033095804098
             ],
             [
-              -595.3580227956807,
-              177.34436583410601
+              11.066696035669978,
+              1.074923596380451
             ],
             [
-              -603.7966556438801,
-              178.3789987493595
+              2.628063187470573,
+              2.109556511633947
             ],
             [
-              -603.6295092600276,
-              171.08888778898196
+              2.795209571323042,
+              -5.180554448743599
             ]
           ]
         ]
       },
       "properties": {
-        "deaths": "67",
+        "casesPerOneMillion": "688",
+        "tests": "4292",
+        "cases": "83379",
+        "todayCases": "850",
         "population": "131",
         "todayDeaths": "360",
-        "tests": "4292",
-        "deathsPerOneMillion": "501",
-        "cases": "83379",
-        "state": "Pethpuengseaside",
-        "name": "Pethpuengseaside",
-        "recovered": "818",
-        "casesPerOneMillion": "688",
-        "todayCases": "850",
-        "description": "Pethpuengseaside is a coastal, sprawling town, known for its palace.",
+        "deaths": "67",
         "active": "714",
-        "Name": "state1",
-        "testsPerOneMillion": "891"
-      }
+        "testsPerOneMillion": "891",
+        "recovered": "818",
+        "name": "Sausalito",
+        "state": "Pethpuengseaside",
+        "deathsPerOneMillion": "501"
+      },
+      "type": "Feature"
     },
     {
-      "type": "Feature",
       "geometry": {
         "type": "Polygon",
         "coordinates": [
           [
             [
-              -602.9631524012884,
-              178.23686364531488
+              3.4919114109513,
+              1.841489736899504
             ],
             [
-              -603.0194191491427,
-              183.47002321311044
+              3.435644663097062,
+              7.074649304695058
             ],
             [
-              -592.5964951497554,
-              183.49338225217988
+              13.85856866248437,
+              7.098008343764505
             ],
             [
-              -594.5678758991417,
-              177.0852191321469
+              11.88718791309807,
+              0.689845223731524
             ],
             [
-              -602.9631524012884,
-              178.23686364531488
+              3.4919114109513,
+              1.841489736899504
             ]
           ]
         ]
       },
       "properties": {
-        "deaths": "33",
+        "casesPerOneMillion": "300",
+        "tests": "9053",
+        "cases": "42342",
+        "todayCases": "692",
         "population": "589",
         "todayDeaths": "639",
-        "tests": "9053",
-        "deathsPerOneMillion": "315",
-        "cases": "42342",
-        "state": "Kalblarmoor",
-        "name": "Kalblarmoor",
-        "recovered": "69",
-        "casesPerOneMillion": "300",
-        "todayCases": "692",
-        "description": "Kalblarmoor is a small town, known for theatre.",
+        "deaths": "33",
         "active": "175",
-        "Name": "state2",
-        "testsPerOneMillion": "101"
-      }
+        "testsPerOneMillion": "101",
+        "recovered": "69",
+        "name": "Chapel Hill",
+        "state": "Kalblarmoor",
+        "deathsPerOneMillion": "315"
+      },
+      "type": "Feature"
     },
     {
-      "type": "Feature",
       "geometry": {
         "type": "Polygon",
         "coordinates": [
           [
             [
-              -587.5653474812882,
-              174.99561522995594
+              19.344891044288318,
+              -1.923209598796644
             ],
             [
-              -587.5653474812882,
-              168.52031472976176
+              19.344891044288318,
+              -8.398510098990824
             ],
             [
-              -581.045695607805,
-              168.43161198318376
+              25.86454291777153,
+              -8.487212845568832
             ],
             [
-              -580.114316768736,
-              174.77385836351093
+              26.795921756840528,
+              -2.144966465241664
             ],
             [
-              -581.444857967406,
-              175.12866934982296
+              25.465380558170466,
+              -1.790155478929632
             ],
             [
-              -587.5653474812882,
-              174.99561522995594
+              19.344891044288318,
+              -1.923209598796644
             ]
           ]
         ]
       },
       "properties": {
-        "deaths": "244",
+        "casesPerOneMillion": "880",
+        "tests": "5421",
+        "cases": "20033",
+        "todayCases": "154",
         "population": "424",
         "todayDeaths": "233",
-        "tests": "5421",
-        "deathsPerOneMillion": "576",
-        "cases": "20033",
-        "state": "Olthothame Sands",
-        "name": "Olthothame Sands",
-        "recovered": "270",
-        "casesPerOneMillion": "880",
-        "todayCases": "154",
-        "description": "Olthothame Sands is a small town, known for its castle.",
+        "deaths": "244",
         "active": "455",
-        "Name": "state3",
-        "testsPerOneMillion": "133"
-      }
+        "testsPerOneMillion": "133",
+        "recovered": "270",
+        "name": "Kingston",
+        "state": "Olthothame Sands",
+        "deathsPerOneMillion": "576"
+      },
+      "type": "Feature"
     },
     {
-      "type": "Feature",
       "geometry": {
         "type": "Polygon",
         "coordinates": [
           [
             [
-              -595.0285801984861,
-              176.72021885472574
+              11.265655215041289,
+              0.164016547598042
             ],
             [
-              -595.0904675821445,
-              171.04340716029466
+              11.20376783138293,
+              -5.512795146833039
             ],
             [
-              -587.7723889017601,
-              171.06515303585078
+              18.52184651176729,
+              -5.491049271276918
             ],
             [
-              -587.7551266832587,
-              176.65339940863825
+              18.53910873026869,
+              0.097197101510549
             ],
             [
-              -595.0285801984861,
-              176.72021885472574
+              11.265655215041289,
+              0.164016547598042
             ]
           ]
         ]
       },
       "properties": {
-        "deaths": "237",
+        "casesPerOneMillion": "452",
+        "tests": "4778",
+        "cases": "50967",
+        "todayCases": "340",
         "population": "229",
         "todayDeaths": "380",
-        "tests": "4778",
-        "deathsPerOneMillion": "960",
-        "cases": "50967",
-        "state": "Grand Thpic",
-        "name": "Grand Thpic",
-        "recovered": "704",
-        "casesPerOneMillion": "452",
-        "todayCases": "340",
-        "description": "Grand Thpic is a large town, known for its palace.",
+        "deaths": "237",
         "active": "297",
-        "Name": "state5",
-        "testsPerOneMillion": "217"
-      }
+        "testsPerOneMillion": "217",
+        "recovered": "704",
+        "name": "Beverly Hills",
+        "state": "Grand Thpic",
+        "deathsPerOneMillion": "960"
+      },
+      "type": "Feature"
     },
     {
-      "type": "Feature",
       "geometry": {
         "type": "Polygon",
         "coordinates": [
           [
             [
-              -589.1777775726684,
-              167.14961605671087
+              17.624736270751583,
+              -9.359551530038692
             ],
             [
-              -584.6095861239013,
-              167.1052646834219
+              22.192927719518735,
+              -9.403902903327667
             ],
             [
-              -584.5652347506123,
-              158.14628727904363
+              22.237279092807768,
+              -18.36288030770593
             ],
             [
-              -589.2221289459575,
-              158.05758453246563
+              17.58038489746255,
+              -18.451583054283937
             ],
             [
-              -589.1777775726684,
-              167.14961605671087
+              17.624736270751583,
+              -9.359551530038692
             ]
           ]
         ]
       },
       "properties": {
-        "deaths": "299",
+        "casesPerOneMillion": "80",
+        "tests": "3603",
+        "cases": "27171",
+        "todayCases": "137",
         "population": "153",
         "todayDeaths": "148",
-        "tests": "3603",
-        "deathsPerOneMillion": "574",
-        "cases": "27171",
-        "state": "South Euters",
-        "name": "South Euters",
-        "recovered": "432",
-        "casesPerOneMillion": "80",
-        "todayCases": "137",
-        "description": "South Euters is a large town, known for its research lab.",
+        "deaths": "299",
         "active": "529",
-        "Name": "state4",
-        "testsPerOneMillion": "157"
-      }
+        "testsPerOneMillion": "157",
+        "recovered": "432",
+        "name": "Sanford",
+        "state": "South Euters",
+        "deathsPerOneMillion": "574"
+      },
+      "type": "Feature"
     },
     {
-      "type": "Feature",
       "geometry": {
         "type": "Polygon",
         "coordinates": [
           [
             [
-              -585.4359548214122,
-              175.37986457303467
+              21.424214485697206,
+              -1.244613941093542
             ],
             [
-              -585.3418498342036,
-              182.74212546947138
+              21.51831947290586,
+              6.117646955343167
             ],
             [
-              -581.6185838562502,
-              182.60529648285757
+              25.24158545085922,
+              5.98081796872936
             ],
             [
-              -579.2105463759463,
-              179.52867181296614
+              27.64962293116318,
+              2.90419329883793
             ],
             [
-              -580.6929216709924,
-              175.21771059213953
+              26.167247636117025,
+              -1.406767921988683
             ],
             [
-              -585.4359548214122,
-              175.37986457303467
+              21.424214485697206,
+              -1.244613941093542
             ]
           ]
         ]
       },
       "properties": {
-        "deaths": "218",
+        "casesPerOneMillion": "727",
+        "tests": "9897",
+        "cases": "34387",
+        "todayCases": "188",
         "population": "890",
         "todayDeaths": "49",
-        "tests": "9897",
-        "deathsPerOneMillion": "10",
-        "cases": "34387",
-        "state": "Mall Springs",
-        "name": "Mall Springs",
-        "recovered": "500",
-        "casesPerOneMillion": "727",
-        "todayCases": "188",
-        "description": "Mall Springs is a large town situated at the source of a river. It is known for UFO reports.",
+        "deaths": "218",
         "active": "840",
-        "Name": "state6",
-        "testsPerOneMillion": "617"
-      }
+        "testsPerOneMillion": "617",
+        "recovered": "500",
+        "name": "Turlock",
+        "state": "Mall Springs",
+        "deathsPerOneMillion": "10"
+      },
+      "type": "Feature"
     },
     {
-      "type": "Feature",
       "geometry": {
         "type": "Polygon",
         "coordinates": [
           [
             [
-              -592.5837185045289,
-              176.60455421639614
+              13.705965161865215,
+              0.087800384424291
             ],
             [
-              -592.5655932596917,
-              183.12433174873757
+              13.72409040670238,
+              6.607577916765727
             ],
             [
-              -587.7311542768625,
-              183.09942705324937
+              18.55852938953155,
+              6.582673221277524
             ],
             [
-              -587.7492795216998,
-              176.57964952090794
+              18.54040414469427,
+              0.062895688936088
             ],
             [
-              -592.5837185045289,
-              176.60455421639614
+              13.705965161865215,
+              0.087800384424291
             ]
           ]
         ]
       },
       "properties": {
-        "deaths": "338",
+        "casesPerOneMillion": "112",
+        "tests": "9913",
+        "cases": "11379",
+        "todayCases": "781",
         "population": "391",
         "todayDeaths": "420",
-        "tests": "9913",
-        "deathsPerOneMillion": "761",
-        "cases": "11379",
-        "state": "Tonleys",
-        "name": "Tonleys",
-        "recovered": "876",
-        "casesPerOneMillion": "112",
-        "todayCases": "781",
-        "description": "Tonleys is a small town, known for tourism.",
+        "deaths": "338",
         "active": "585",
-        "Name": "state7",
-        "testsPerOneMillion": "858"
-      }
+        "testsPerOneMillion": "858",
+        "recovered": "876",
+        "name": "Barbourville",
+        "state": "Tonleys",
+        "deathsPerOneMillion": "761"
+      },
+      "type": "Feature"
     },
     {
-      "type": "Feature",
       "geometry": {
         "type": "Polygon",
         "coordinates": [
           [
             [
-              -608.0847603355082,
-              180.6877934195273
+              -1.591765297157099,
+              4.794628944826723
             ],
             [
-              -603.9863414577525,
-              179.79880191135916
+              2.506653580598663,
+              3.905637436658576
             ],
             [
-              -603.515550938201,
-              173.2048516704045
+              2.977444100150092,
+              -2.688312804296078
             ],
             [
-              -608.2868067045681,
-              172.77977483190747
+              -1.79381166621697,
+              -3.113389642793113
             ],
             [
-              -608.3549355398708,
-              174.37743439145285
+              -1.861940501519643,
+              -1.515730083247735
             ],
             [
-              -608.0847603355082,
-              180.6877934195273
+              -1.591765297157099,
+              4.794628944826723
             ]
           ]
         ]
       },
       "properties": {
-        "deaths": "294",
+        "casesPerOneMillion": "696",
+        "tests": "2982",
+        "cases": "34599",
+        "todayCases": "28",
         "population": "351",
         "todayDeaths": "589",
-        "tests": "2982",
-        "deathsPerOneMillion": "729",
-        "cases": "34599",
-        "state": "Ncilcheadworth",
-        "name": "Ncilcheadworth",
-        "recovered": "866",
-        "casesPerOneMillion": "696",
-        "todayCases": "28",
-        "description": "Ncilcheadworth is a sprawling town, known for elopement.",
+        "deaths": "294",
         "active": "946",
-        "Name": "state8",
-        "testsPerOneMillion": "244"
-      }
+        "testsPerOneMillion": "244",
+        "recovered": "866",
+        "name": "Hyde Park",
+        "state": "Ncilcheadworth",
+        "deathsPerOneMillion": "729"
+      },
+      "type": "Feature"
     },
     {
-      "type": "Feature",
       "geometry": {
         "type": "Polygon",
         "coordinates": [
           [
             [
-              -605.9052333991496,
-              160.48392007742146
+              0.763762528358459,
+              -15.903867585771636
             ],
             [
-              -605.8769523306141,
-              158.08911290423092
+              0.79204359689388,
+              -18.29867475896218
             ],
             [
-              -593.7234284467573,
-              158.05522001693387
+              12.945567480750672,
+              -18.33256764625922
             ],
             [
-              -593.7971052432606,
-              160.53820002860246
+              12.871890684247408,
+              -15.849587634590634
             ],
             [
-              -605.9052333991496,
-              160.48392007742146
+              0.763762528358459,
+              -15.903867585771636
             ]
           ]
         ]
       },
       "properties": {
-        "deaths": "102",
+        "casesPerOneMillion": "902",
+        "tests": "5172",
+        "cases": "54112",
+        "todayCases": "393",
         "population": "712",
         "todayDeaths": "581",
-        "tests": "5172",
-        "deathsPerOneMillion": "524",
-        "cases": "54112",
-        "state": "Royal Rasear",
-        "name": "Royal Rasear",
-        "recovered": "719",
-        "casesPerOneMillion": "902",
-        "todayCases": "393",
-        "description": "Royal Rasear is a coastal, sprawling city, known for being the setting of a famous story.",
+        "deaths": "102",
         "active": "55",
-        "Name": "state9",
-        "testsPerOneMillion": "231"
-      }
+        "testsPerOneMillion": "231",
+        "recovered": "719",
+        "name": "Seymour",
+        "state": "Royal Rasear",
+        "deathsPerOneMillion": "524"
+      },
+      "type": "Feature"
     },
     {
-      "type": "Feature",
       "geometry": {
         "type": "Polygon",
         "coordinates": [
           [
             [
-              -584.2581120191262,
-              167.61578217837712
+              22.5398500771605,
+              -8.91159239690592
             ],
             [
-              -584.2581120191262,
-              164.86599703445904
+              22.5398500771605,
+              -11.661377540823995
             ],
             [
-              -581.4639755019192,
-              164.86599703445904
+              25.333986594367495,
+              -11.661377540823995
             ],
             [
-              -581.5083268752081,
-              167.57143080508814
+              25.289635221078576,
+              -8.955943770194896
             ],
             [
-              -584.2581120191262,
-              167.61578217837712
+              22.5398500771605,
+              -8.91159239690592
             ]
           ]
         ]
       },
       "properties": {
-        "deaths": "293",
+        "casesPerOneMillion": "836",
+        "tests": "6470",
+        "cases": "78238",
+        "todayCases": "972",
         "population": "344",
         "todayDeaths": "451",
-        "tests": "6470",
-        "deathsPerOneMillion": "771",
-        "cases": "78238",
-        "state": "Chulmmalt",
-        "name": "Chulmmalt",
-        "recovered": "265",
-        "casesPerOneMillion": "836",
-        "todayCases": "972",
-        "description": "Chulmmalt is a small town, known for elopement.",
+        "deaths": "293",
         "active": "924",
-        "Name": "state10",
-        "testsPerOneMillion": "398"
-      }
+        "testsPerOneMillion": "398",
+        "recovered": "265",
+        "name": "Anchorage",
+        "state": "Chulmmalt",
+        "deathsPerOneMillion": "771"
+      },
+      "type": "Feature"
     },
     {
-      "type": "Feature",
       "geometry": {
         "type": "Polygon",
         "coordinates": [
           [
             [
-              -585.0930844546843,
-              182.97292184779332
+              21.23453043782103,
+              6.647341395422895
             ],
             [
-              -587.7541657971205,
-              182.9705523813887
+              18.573449095384824,
+              6.644971929018279
             ],
             [
-              -587.7456752091714,
-              173.4350109043258
+              18.581939683333978,
+              -2.890569548044628
             ],
             [
-              -585.0930844546843,
-              182.97292184779332
+              21.23453043782103,
+              6.647341395422895
             ]
           ]
         ]
       },
       "properties": {
-        "deaths": "201",
+        "casesPerOneMillion": "515",
+        "tests": "5742",
+        "cases": "98438",
+        "todayCases": "549",
         "population": "708",
         "todayDeaths": "268",
-        "tests": "5742",
-        "deathsPerOneMillion": "797",
-        "cases": "98438",
-        "state": "Dercoastbury",
-        "name": "Dercoastbury",
-        "recovered": "112",
-        "casesPerOneMillion": "515",
-        "todayCases": "549",
-        "description": "Dercoastbury is a sprawling city, known for its space programme.",
+        "deaths": "201",
         "active": "440",
-        "Name": "state11",
-        "testsPerOneMillion": "490"
-      }
+        "testsPerOneMillion": "490",
+        "recovered": "112",
+        "name": "Anniston",
+        "state": "Dercoastbury",
+        "deathsPerOneMillion": "797"
+      },
+      "type": "Feature"
     },
     {
-      "type": "Feature",
       "geometry": {
         "type": "Polygon",
         "coordinates": [
           [
             [
-              -584.8788273639728,
-              184.15720886295745
+              21.53223622597769,
+              7.259625520827218
             ],
             [
-              -585.1046773730616,
-              174.84520857522315
+              21.30638621688896,
+              -2.052374766907075
             ],
             [
-              -587.678255076236,
-              174.73779222548217
+              18.732808513714495,
+              -2.159791116648062
             ],
             [
-              -584.8788273639728,
-              184.15720886295745
+              21.53223622597769,
+              7.259625520827218
             ]
           ]
         ]
       },
       "properties": {
-        "deaths": "171",
+        "casesPerOneMillion": "418",
+        "tests": "4399",
+        "cases": "34065",
+        "todayCases": "961",
         "population": "457",
         "todayDeaths": "735",
-        "tests": "4399",
-        "deathsPerOneMillion": "615",
-        "cases": "34065",
-        "state": "Saint West",
-        "name": "Saint West",
-        "recovered": "98",
-        "casesPerOneMillion": "418",
-        "todayCases": "961",
-        "description": "Saint West is a sprawling town, known for being the setting of a famous story.",
+        "deaths": "171",
         "active": "927",
-        "Name": "state12",
-        "testsPerOneMillion": "461"
-      }
+        "testsPerOneMillion": "461",
+        "recovered": "98",
+        "name": "Saint Petersburg",
+        "state": "Saint West",
+        "deathsPerOneMillion": "615"
+      },
+      "type": "Feature"
     },
     {
-      "type": "Feature",
       "geometry": {
         "type": "Polygon",
         "coordinates": [
           [
             [
-              -589.0974747525514,
-              168.37120715703483
+              17.5821419182677,
+              -8.204719387670806
             ],
             [
-              -589.1145002928109,
-              167.12948542006117
+              17.565116378008188,
+              -9.446441124644466
             ],
             [
-              -584.5011748740324,
-              167.15494210888116
+              22.17844179678676,
+              -9.42098443582448
             ],
             [
-              -584.4853654437915,
-              168.30796943607115
+              22.194251227027653,
+              -8.26795710863449
             ],
             [
-              -589.0974747525514,
-              168.37120715703483
+              17.5821419182677,
+              -8.204719387670806
             ]
           ]
         ]
       },
       "properties": {
-        "deaths": "32",
+        "casesPerOneMillion": "488",
+        "tests": "1347",
+        "cases": "69139",
+        "todayCases": "196",
         "population": "359",
         "todayDeaths": "396",
-        "tests": "1347",
-        "deathsPerOneMillion": "484",
-        "cases": "69139",
-        "state": "Saint Moorstian",
-        "name": "Saint Moorstian",
-        "recovered": "461",
-        "casesPerOneMillion": "488",
-        "todayCases": "196",
-        "description": "Saint Moorstian is a large town, known for its elaborate legends.",
+        "deaths": "32",
         "active": "623",
-        "Name": "state13",
-        "testsPerOneMillion": "190"
-      }
+        "testsPerOneMillion": "190",
+        "recovered": "461",
+        "name": "Biddeford",
+        "state": "Saint Moorstian",
+        "deathsPerOneMillion": "484"
+      },
+      "type": "Feature"
     },
     {
-      "type": "Feature",
       "geometry": {
         "type": "Polygon",
         "coordinates": [
           [
             [
-              -597.2051527364592,
-              163.3360662672972
+              9.35156676175896,
+              -12.821099541138658
             ],
             [
-              -597.1735066007843,
-              170.96495253227118
+              9.383212897433879,
+              -5.192213276164686
             ],
             [
-              -588.8803634737,
-              171.071332445922
+              17.676356024518242,
+              -5.085833362513874
             ],
             [
-              -588.9101183639704,
-              169.11959489183056
+              17.646601134247845,
+              -7.037570916605311
             ],
             [
-              -593.8763381095181,
-              168.94939296688625
+              12.680381388700113,
+              -7.20777284154962
             ],
             [
-              -593.9672613306185,
-              163.3159309687067
+              12.589458167599702,
+              -12.841234839729161
             ],
             [
-              -597.2051527364592,
-              163.3360662672972
+              9.35156676175896,
+              -12.821099541138658
             ]
           ]
         ]
       },
       "properties": {
-        "deaths": "166",
+        "casesPerOneMillion": "453",
+        "tests": "1636",
+        "cases": "27656",
+        "todayCases": "717",
         "population": "816",
         "todayDeaths": "564",
-        "tests": "1636",
-        "deathsPerOneMillion": "747",
-        "cases": "27656",
-        "state": "South Gibril Under Mslowda",
-        "name": "South Gibril Under Mslowda",
-        "recovered": "672",
-        "casesPerOneMillion": "453",
-        "todayCases": "717",
-        "description": "South Gibril Under Mslowda is a small town, known for being the setting of a famous story.",
+        "deaths": "166",
         "active": "414",
-        "Name": "state14",
-        "testsPerOneMillion": "600"
-      }
+        "testsPerOneMillion": "600",
+        "recovered": "672",
+        "name": "Carrollton",
+        "state": "South Gibril Under Mslowda",
+        "deathsPerOneMillion": "747"
+      },
+      "type": "Feature"
     },
     {
-      "type": "Feature",
       "geometry": {
         "type": "Polygon",
         "coordinates": [
           [
             [
-              -597.6016031922925,
-              164.17225532119429
+              9.140220689349363,
+              -12.24436007384351
             ],
             [
-              -597.6252857327296,
-              160.57987214670132
+              9.116538148912255,
+              -15.836743248336475
             ],
             [
-              -605.919689451884,
-              160.5014954249514
+              0.82213442975787,
+              -15.915119970086394
             ],
             [
-              -605.895422157362,
-              164.18257941856783
+              0.84640172427989,
+              -12.234035976469968
             ],
             [
-              -597.6016031922925,
-              164.17225532119429
+              9.140220689349363,
+              -12.24436007384351
             ]
           ]
         ]
       },
       "properties": {
-        "deaths": "161",
+        "casesPerOneMillion": "877",
+        "tests": "6391",
+        "cases": "58250",
+        "todayCases": "332",
         "population": "91",
         "todayDeaths": "162",
-        "tests": "6391",
-        "deathsPerOneMillion": "361",
-        "cases": "58250",
-        "state": "New Chway",
-        "name": "New Chway",
-        "recovered": "675",
-        "casesPerOneMillion": "877",
-        "todayCases": "332",
-        "description": "New Chway is a small town, known for its mining heritage.",
+        "deaths": "161",
         "active": "498",
-        "Name": "state15",
-        "testsPerOneMillion": "528"
-      }
+        "testsPerOneMillion": "528",
+        "recovered": "675",
+        "name": "Joplin",
+        "state": "New Chway",
+        "deathsPerOneMillion": "361"
+      },
+      "type": "Feature"
     },
     {
-      "type": "Feature",
       "geometry": {
         "type": "Polygon",
         "coordinates": [
           [
             [
-              -584.5637800014648,
-              158.02006532380125
+              22.228113098644144,
+              -18.44055029352576
             ],
             [
-              -584.7101582633059,
-              164.80482632886543
+              22.081734836803093,
+              -11.655789288461577
             ],
             [
-              -580.58525256776,
-              164.795536171709
+              26.206640532348956,
+              -11.66507944561802
             ],
             [
-              -580.5726775893512,
-              158.0983437535172
+              26.21921551075775,
+              -18.362271863809795
             ],
             [
-              -584.5637800014648,
-              158.02006532380125
+              22.228113098644144,
+              -18.44055029352576
             ]
           ]
         ]
       },
       "properties": {
-        "deaths": "253",
+        "casesPerOneMillion": "595",
+        "tests": "9134",
+        "cases": "62401",
+        "todayCases": "826",
         "population": "181",
         "todayDeaths": "552",
-        "tests": "9134",
-        "deathsPerOneMillion": "98",
-        "cases": "62401",
-        "state": "Cupen-In-Thammontestead",
-        "name": "Cupen-In-Thammontestead",
-        "recovered": "572",
-        "casesPerOneMillion": "595",
-        "todayCases": "826",
-        "description": "Cupen-In-Thammontestead is a large town, known for inventing the Cupen-In-Thammontestead cake.",
+        "deaths": "253",
         "active": "798",
-        "Name": "state16",
-        "testsPerOneMillion": "525"
-      }
+        "testsPerOneMillion": "525",
+        "recovered": "572",
+        "name": "Kettering",
+        "state": "Cupen-In-Thammontestead",
+        "deathsPerOneMillion": "98"
+      },
+      "type": "Feature"
     },
     {
-      "type": "Feature",
       "geometry": {
         "type": "Polygon",
         "coordinates": [
           [
             [
-              -593.7530712575675,
-              168.83985169169745
+              12.935648907518484,
+              -7.557039465762386
             ],
             [
-              -593.7065460507899,
-              158.10609550254156
+              12.982174114296058,
+              -18.29079565491827
             ],
             [
-              -589.1817803568357,
-              158.20267625699165
+              17.506939808250294,
+              -18.194214900468182
             ],
             [
-              -589.1403207786486,
-              168.84701750267806
+              17.548399386437367,
+              -7.549873654781777
             ],
             [
-              -593.7530712575675,
-              168.83985169169745
+              12.935648907518484,
+              -7.557039465762386
             ]
           ]
         ]
       },
       "properties": {
-        "deaths": "167",
+        "casesPerOneMillion": "827",
+        "tests": "2205",
+        "cases": "44420",
+        "todayCases": "323",
         "population": "878",
         "todayDeaths": "176",
-        "tests": "2205",
-        "deathsPerOneMillion": "428",
-        "cases": "44420",
-        "state": "Brixmau",
-        "name": "Brixmau",
-        "recovered": "725",
-        "casesPerOneMillion": "827",
-        "todayCases": "323",
-        "description": "Brixmau is a small town, known for inventing the Brixmau cake.",
+        "deaths": "167",
         "active": "738",
-        "Name": "state17",
-        "testsPerOneMillion": "344"
-      }
+        "testsPerOneMillion": "344",
+        "recovered": "725",
+        "name": "Dixon",
+        "state": "Brixmau",
+        "deathsPerOneMillion": "428"
+      },
+      "type": "Feature"
     },
     {
-      "type": "Feature",
       "geometry": {
         "type": "Polygon",
         "coordinates": [
           [
             [
-              -597.3338799430676,
-              164.0910207919403
+              9.432219923285569,
+              -12.242145905652404
             ],
             [
-              -605.9381320342699,
-              164.11321865515225
+              0.827967832083285,
+              -12.21994804244046
             ],
             [
-              -606.0057785495524,
-              173.16075462398325
+              0.760321316800795,
+              -3.172412073609461
             ],
             [
-              -603.8325684617594,
-              173.1663500610472
+              2.93353140459379,
+              -3.166816636545501
             ],
             [
-              -603.6888948717526,
-              169.04202859464797
+              3.077204994600546,
+              -7.291138102944739
             ],
             [
-              -597.2133874494685,
-              168.96999826068375
+              9.552712416884614,
+              -7.363168436908961
             ],
             [
-              -597.3338799430676,
-              164.0910207919403
+              9.432219923285569,
+              -12.242145905652404
             ]
           ]
         ]
       },
       "properties": {
-        "deaths": "67",
+        "casesPerOneMillion": "50",
+        "tests": "9257",
+        "cases": "18122",
+        "todayCases": "387",
         "population": "32",
         "todayDeaths": "72",
-        "tests": "9257",
-        "deathsPerOneMillion": "853",
-        "cases": "18122",
-        "state": "Grangenelland",
-        "name": "Grangenelland",
-        "recovered": "319",
-        "casesPerOneMillion": "50",
-        "todayCases": "387",
-        "description": "Grangenelland is a large town, known for its historic significance.",
+        "deaths": "67",
         "active": "466",
-        "Name": "state18",
-        "testsPerOneMillion": "736"
-      }
+        "testsPerOneMillion": "736",
+        "recovered": "319",
+        "name": "Petersburg",
+        "state": "Grangenelland",
+        "deathsPerOneMillion": "853"
+      },
+      "type": "Feature"
     },
     {
-      "type": "Feature",
       "geometry": {
         "type": "Polygon",
         "coordinates": [
           [
             [
-              -602.7913179649748,
-              170.90874182253097
+              3.663745847264888,
+              -5.160423541326434
             ],
             [
-              -602.8220936758041,
-              169.265633579946
+              3.632970136435599,
+              -6.803531783911392
             ],
             [
-              -597.3243802683387,
-              169.41525872668925
+              9.130683543901025,
+              -6.653906637168159
             ],
             [
-              -602.7913179649748,
-              170.90874182253097
+              3.663745847264888,
+              -5.160423541326434
             ]
           ]
         ]
       },
       "properties": {
-        "deaths": "253",
+        "casesPerOneMillion": "374",
+        "tests": "9881",
+        "cases": "48713",
+        "todayCases": "422",
         "population": "260",
         "todayDeaths": "662",
-        "tests": "9881",
-        "deathsPerOneMillion": "351",
-        "cases": "48713",
-        "state": "Las Pocbec-In-Letlitt",
-        "name": "Las Pocbec-In-Letlitt",
-        "recovered": "853",
-        "casesPerOneMillion": "374",
-        "todayCases": "422",
-        "description": "Las Pocbec-In-Letlitt is a large town, known for its cheese exportation.",
+        "deaths": "253",
         "active": "22",
-        "Name": "state19",
-        "testsPerOneMillion": "930"
-      }
+        "testsPerOneMillion": "930",
+        "recovered": "853",
+        "name": "Kalispell",
+        "state": "Las Pocbec-In-Letlitt",
+        "deathsPerOneMillion": "351"
+      },
+      "type": "Feature"
     },
     {
-      "type": "Feature",
       "geometry": {
         "type": "Polygon",
         "coordinates": [
           [
             [
-              -592.5342271171482,
-              179.36583304869797
+              13.682628595111886,
+              2.770182266414427
             ],
             [
-              -592.4941386910593,
-              176.79376578951727
+              13.7227170212008,
+              0.198115007233728
             ],
             [
-              -595.6420126044342,
-              176.70034603931893
+              10.574843107825963,
+              0.104695257035392
             ],
             [
-              -592.5342271171482,
-              179.36583304869797
+              13.682628595111886,
+              2.770182266414427
             ]
           ]
         ]
       },
       "properties": {
-        "deaths": "326",
+        "casesPerOneMillion": "893",
+        "tests": "4419",
+        "cases": "54827",
+        "todayCases": "141",
         "population": "313",
         "todayDeaths": "464",
-        "tests": "4419",
-        "deathsPerOneMillion": "652",
-        "cases": "54827",
-        "state": "Rkhamgroroy-On-River",
-        "name": "Rkhamgroroy-On-River",
-        "recovered": "567",
-        "casesPerOneMillion": "893",
-        "todayCases": "141",
-        "description": "Rkhamgroroy-On-River is a sprawling town situated on a river bend known for the battle of Rkhamgroroy-On-River.",
+        "deaths": "326",
         "active": "843",
-        "Name": "state20",
-        "testsPerOneMillion": "624"
-      }
+        "testsPerOneMillion": "624",
+        "recovered": "567",
+        "name": "Birmingham",
+        "state": "Rkhamgroroy-On-River",
+        "deathsPerOneMillion": "652"
+      },
+      "type": "Feature"
     }
   ],
-  "type": "FeatureCollection"
+  "coordinateSystem": "custom",
+  "type": "FeatureCollection",
+  
+  "name": "NEWMAP3QGIS"
 }
