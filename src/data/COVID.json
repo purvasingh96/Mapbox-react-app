@@ -1,5 +1,9 @@
 {
   "type": "FeatureCollection",
+  "initialViewState" :[
+              -123.233256,
+              42.006186
+            ],
   "features": [
     {
       "type": "Feature",
