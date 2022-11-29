@@ -1,8 +1,8 @@
 {
   "type": "FeatureCollection",
-  "initialViewState" :[
-              -100,
-              40
+ "initialViewState" :[
+              -123.233256,
+              42.006186
             ],
   "name": "COVID-19 Statistics",
   "features": [
