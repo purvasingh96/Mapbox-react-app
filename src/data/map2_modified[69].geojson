@@ -1,925 +1,925 @@
 {
-   "initialViewState" :[
-              10.277530963995087,
-              22.863354328395513
-            ],
-  
-  "features": [
-    {
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              10.277530963995087,
-              22.863354328395513
-            ],
-            [
-              18.703722159729047,
-              22.881875681335014
-            ],
-            [
-              18.54901742834202,
-              29.118832373519563
-            ],
-            [
-              10.110384580142618,
-              30.153465288773063
-            ],
-            [
-              10.277530963995087,
-              22.863354328395513
-            ]
-          ]
-        ]
-      },
-      "properties": {
-        "casesPerOneMillion": "403",
-        "tests": "2500",
-        "cases": "19560",
-        "todayCases": "203",
-        "population": "499",
-        "todayDeaths": "209",
-        "deaths": "171",
-        "active": "832",
-        "testsPerOneMillion": "923",
-        "recovered": "850",
-        "name": "Berea",
-        "state": "West Pricebo",
-        "deathsPerOneMillion": "376"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              27.874687623173635,
-              35.85563738593231
-            ],
-            [
-              28.49908164128764,
-              30.659556447468447
-            ],
-            [
-              18.140371399124348,
-              29.50412905441857
-            ],
-            [
-              19.4039899123525,
-              36.08851702028363
-            ],
-            [
-              27.874687623173635,
-              35.85563738593231
-            ]
-          ]
-        ]
-      },
-      "properties": {
-        "casesPerOneMillion": "916",
-        "tests": "7892",
-        "cases": "82960",
-        "todayCases": "128",
-        "population": "276",
-        "todayDeaths": "255",
-        "deaths": "103",
-        "active": "137",
-        "testsPerOneMillion": "506",
-        "recovered": "312",
-        "name": "Port Lavaca",
-        "state": "Fort Rocamp",
-        "deathsPerOneMillion": "619"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              11.788633706705024,
-              36.041682042557774
-            ],
-            [
-              11.788633706705024,
-              29.566381542363594
-            ],
-            [
-              18.308285580188237,
-              29.477678795785586
-            ],
-            [
-              19.239664419257235,
-              35.819925176112754
-            ],
-            [
-              17.909123220587173,
-              36.174736162424786
-            ],
-            [
-              11.788633706705024,
-              36.041682042557774
-            ]
-          ]
-        ]
-      },
-      "properties": {
-        "casesPerOneMillion": "729",
-        "tests": "3335",
-        "cases": "34996",
-        "todayCases": "888",
-        "population": "229",
-        "todayDeaths": "724",
-        "deaths": "162",
-        "active": "385",
-        "testsPerOneMillion": "254",
-        "recovered": "934",
-        "name": "Cedar Falls",
-        "state": "Juanbourne",
-        "deathsPerOneMillion": "738"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              14.283947076892467,
-              11.088077658091557
-            ],
-            [
-              19.961078758711572,
-              11.074044498422104
-            ],
-            [
-              19.877646760926176,
-              18.391679878594182
-            ],
-            [
-              14.289453416861782,
-              18.36183600964325
-            ],
-            [
-              14.283947076892467,
-              11.088077658091557
-            ]
-          ]
-        ]
-      },
-      "properties": {
-        "casesPerOneMillion": "350",
-        "tests": "2740",
-        "cases": "34128",
-        "todayCases": "567",
-        "population": "215",
-        "todayDeaths": "983",
-        "deaths": "204",
-        "active": "23",
-        "testsPerOneMillion": "986",
-        "recovered": "493",
-        "name": "Santa Clara",
-        "state": "Rstonpen Upon Rderportmere",
-        "deathsPerOneMillion": "162"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              25.516646315652387,
-              32.20281076419799
-            ],
-            [
-              30.08483776441954,
-              32.158459390909016
-            ],
-            [
-              30.129189137708572,
-              23.19948198653076
-            ],
-            [
-              25.472294942363355,
-              23.110779239952752
-            ],
-            [
-              25.516646315652387,
-              32.20281076419799
-            ]
-          ]
-        ]
-      },
-      "properties": {
-        "casesPerOneMillion": "293",
-        "tests": "5976",
-        "cases": "90971",
-        "todayCases": "605",
-        "population": "88",
-        "todayDeaths": "664",
-        "deaths": "269",
-        "active": "20",
-        "testsPerOneMillion": "181",
-        "recovered": "202",
-        "name": "Shiprock",
-        "state": "Port Nersthat",
-        "deathsPerOneMillion": "369"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              36.366759761366026,
-              32.99044089917985
-            ],
-            [
-              36.50989134891431,
-              25.628969945323924
-            ],
-            [
-              32.78414991245204,
-              25.645776574677747
-            ],
-            [
-              30.278243742808787,
-              28.643225178887214
-            ],
-            [
-              31.620964618269273,
-              32.99970584720612
-            ],
-            [
-              36.366759761366026,
-              32.99044089917985
-            ]
-          ]
-        ]
-      },
-      "properties": {
-        "casesPerOneMillion": "113",
-        "tests": "8862",
-        "cases": "56258",
-        "todayCases": "163",
-        "population": "962",
-        "todayDeaths": "70",
-        "deaths": "181",
-        "active": "162",
-        "testsPerOneMillion": "658",
-        "recovered": "583",
-        "name": "Homer",
-        "state": "Gool Heath",
-        "deathsPerOneMillion": "525"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              20.386949526454032,
-              20.554896865557478
-            ],
-            [
-              20.405074771291197,
-              27.074674397898914
-            ],
-            [
-              25.239513754120367,
-              27.04976970241071
-            ],
-            [
-              25.221388509283088,
-              20.529992170069274
-            ],
-            [
-              20.386949526454032,
-              20.554896865557478
-            ]
-          ]
-        ]
-      },
-      "properties": {
-        "casesPerOneMillion": "560",
-        "tests": "5984",
-        "cases": "62980",
-        "todayCases": "770",
-        "population": "910",
-        "todayDeaths": "760",
-        "deaths": "182",
-        "active": "160",
-        "testsPerOneMillion": "291",
-        "recovered": "727",
-        "name": "Eugene",
-        "state": "Grandwehithewick",
-        "deathsPerOneMillion": "615"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              31.60830392954253,
-              21.788401977335802
-            ],
-            [
-              32.68565842736072,
-              25.841382422042038
-            ],
-            [
-              39.29431681690889,
-              26.007086325855248
-            ],
-            [
-              39.498548727608835,
-              21.221288457853625
-            ],
-            [
-              37.8994475316849,
-              21.227030548176707
-            ],
-            [
-              31.60830392954253,
-              21.788401977335802
-            ]
-          ]
-        ]
-      },
-      "properties": {
-        "casesPerOneMillion": "851",
-        "tests": "7349",
-        "cases": "66051",
-        "todayCases": "133",
-        "population": "760",
-        "todayDeaths": "452",
-        "deaths": "192",
-        "active": "706",
-        "testsPerOneMillion": "627",
-        "recovered": "715",
-        "name": "Irvington",
-        "state": "Fort Paignlu Aux Grangeas",
-        "deathsPerOneMillion": "407"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              11.84241071696066,
-              11.018494763834177
-            ],
-            [
-              14.237254915694837,
-              11.043444300723472
-            ],
-            [
-              14.288054983977407,
-              23.19690927481005
-            ],
-            [
-              11.804974880418047,
-              23.126686714355653
-            ],
-            [
-              11.84241071696066,
-              11.018494763834177
-            ]
-          ]
-        ]
-      },
-      "properties": {
-        "casesPerOneMillion": "29",
-        "tests": "3085",
-        "cases": "38598",
-        "todayCases": "605",
-        "population": "42",
-        "todayDeaths": "64",
-        "deaths": "194",
-        "active": "98",
-        "testsPerOneMillion": "365",
-        "recovered": "378",
-        "name": "North Chicago",
-        "state": "Di Valley",
-        "deathsPerOneMillion": "760"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              33.757952237350665,
-              13.799809395789914
-            ],
-            [
-              33.757952237350665,
-              11.05002425187184
-            ],
-            [
-              36.55208875455766,
-              11.05002425187184
-            ],
-            [
-              36.50773738126874,
-              13.755458022500939
-            ],
-            [
-              33.757952237350665,
-              13.799809395789914
-            ]
-          ]
-        ]
-      },
-      "properties": {
-        "casesPerOneMillion": "478",
-        "tests": "716",
-        "cases": "44826",
-        "todayCases": "94",
-        "population": "754",
-        "todayDeaths": "201",
-        "deaths": "132",
-        "active": "727",
-        "testsPerOneMillion": "27",
-        "recovered": "590",
-        "name": "Oak Harbor",
-        "state": "Cleahoemouth",
-        "deathsPerOneMillion": "311"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              36.42641097475371,
-              33.32726427371583
-            ],
-            [
-              36.41606135981897,
-              35.98832654485946
-            ],
-            [
-              26.880588221554486,
-              35.95124042467688
-            ],
-            [
-              36.42641097475371,
-              33.32726427371583
-            ]
-          ]
-        ]
-      },
-      "properties": {
-        "casesPerOneMillion": "782",
-        "tests": "7976",
-        "cases": "78633",
-        "todayCases": "293",
-        "population": "678",
-        "todayDeaths": "522",
-        "deaths": "21",
-        "active": "81",
-        "testsPerOneMillion": "546",
-        "recovered": "226",
-        "name": "Salem",
-        "state": "New Jormuchchien",
-        "deathsPerOneMillion": "438"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              37.35653817057462,
-              32.9835264094186
-            ],
-            [
-              28.0429699149461,
-              33.13118795863886
-            ],
-            [
-              27.91395043679043,
-              35.703773125494365
-            ],
-            [
-              37.35653817057462,
-              32.9835264094186
-            ]
-          ]
-        ]
-      },
-      "properties": {
-        "casesPerOneMillion": "598",
-        "tests": "6722",
-        "cases": "25254",
-        "todayCases": "427",
-        "population": "218",
-        "todayDeaths": "464",
-        "deaths": "289",
-        "active": "449",
-        "testsPerOneMillion": "826",
-        "recovered": "393",
-        "name": "Rochester",
-        "state": "Seking",
-        "deathsPerOneMillion": "80"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              33.713126207764645,
-              15.62826946093411
-            ],
-            [
-              32.471396592787556,
-              15.64471039712986
-            ],
-            [
-              32.49902523084452,
-              11.031397474629092
-            ],
-            [
-              33.65205987332334,
-              11.01613089101885
-            ],
-            [
-              33.713126207764645,
-              15.62826946093411
-            ]
-          ]
-        ]
-      },
-      "properties": {
-        "casesPerOneMillion": "569",
-        "tests": "7012",
-        "cases": "29694",
-        "todayCases": "448",
-        "population": "113",
-        "todayDeaths": "720",
-        "deaths": "119",
-        "active": "142",
-        "testsPerOneMillion": "352",
-        "recovered": "374",
-        "name": "Dayton",
-        "state": "South Coeurchary",
-        "deathsPerOneMillion": "605"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              27.247540715519126,
-              23.86658018874761
-            ],
-            [
-              34.87597692122735,
-              23.77787744216963
-            ],
-            [
-              34.92032829451638,
-              15.484170637126372
-            ],
-            [
-              32.96886786980033,
-              15.528522010415376
-            ],
-            [
-              32.835813749933344,
-              20.495875818783535
-            ],
-            [
-              27.203189342230093,
-              20.62892993865052
-            ],
-            [
-              27.247540715519126,
-              23.86658018874761
-            ]
-          ]
-        ]
-      },
-      "properties": {
-        "casesPerOneMillion": "588",
-        "tests": "7806",
-        "cases": "68489",
-        "todayCases": "998",
-        "population": "126",
-        "todayDeaths": "579",
-        "deaths": "47",
-        "active": "885",
-        "testsPerOneMillion": "520",
-        "recovered": "264",
-        "name": "Cairo",
-        "state": "Cape Smereley",
-        "deathsPerOneMillion": "538"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              34.891494701500996,
-              22.10069176675004
-            ],
-            [
-              38.483955937910004,
-              22.10069176675004
-            ],
-            [
-              38.6170100577771,
-              13.806984961706782
-            ],
-            [
-              34.935846074789914,
-              13.806984961706782
-            ],
-            [
-              34.891494701500996,
-              22.10069176675004
-            ]
-          ]
-        ]
-      },
-      "properties": {
-        "casesPerOneMillion": "830",
-        "tests": "2854",
-        "cases": "96841",
-        "todayCases": "102",
-        "population": "467",
-        "todayDeaths": "114",
-        "deaths": "272",
-        "active": "171",
-        "testsPerOneMillion": "816",
-        "recovered": "730",
-        "name": "Arthur",
-        "state": "Red Thirsksouthwark",
-        "deathsPerOneMillion": "738"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              14.44028070577205,
-              17.393832464755967
-            ],
-            [
-              14.293902443931,
-              24.17859346982015
-            ],
-            [
-              18.418808139476862,
-              24.169303312663708
-            ],
-            [
-              18.431383117885655,
-              17.472110894471932
-            ],
-            [
-              14.44028070577205,
-              17.393832464755967
-            ]
-          ]
-        ]
-      },
-      "properties": {
-        "casesPerOneMillion": "448",
-        "tests": "6808",
-        "cases": "80642",
-        "todayCases": "568",
-        "population": "179",
-        "todayDeaths": "216",
-        "deaths": "39",
-        "active": "245",
-        "testsPerOneMillion": "113",
-        "recovered": "352",
-        "name": "Liberal",
-        "state": "Hexrellsea",
-        "deathsPerOneMillion": "238"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              32.87325161610289,
-              20.476481475319407
-            ],
-            [
-              22.13940219162867,
-              20.489250806692485
-            ],
-            [
-              22.210986431102178,
-              15.964020633101942
-            ],
-            [
-              32.85493624383747,
-              15.863761792014035
-            ],
-            [
-              32.87325161610289,
-              20.476481475319407
-            ]
-          ]
-        ]
-      },
-      "properties": {
-        "casesPerOneMillion": "466",
-        "tests": "9660",
-        "cases": "38289",
-        "todayCases": "134",
-        "population": "107",
-        "todayDeaths": "136",
-        "deaths": "312",
-        "active": "792",
-        "testsPerOneMillion": "536",
-        "recovered": "37",
-        "name": "Saint Albans",
-        "state": "Royal Mseytinssaint",
-        "deathsPerOneMillion": "836"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              28.567763596664594,
-              11.01590102427836
-            ],
-            [
-              19.96351150546231,
-              11.038098887490303
-            ],
-            [
-              19.89586499017982,
-              20.085634856321303
-            ],
-            [
-              22.069075077972816,
-              20.091230293385262
-            ],
-            [
-              22.21274866797957,
-              15.966908826986025
-            ],
-            [
-              28.68825609026364,
-              15.894878493021803
-            ],
-            [
-              28.567763596664594,
-              11.01590102427836
-            ]
-          ]
-        ]
-      },
-      "properties": {
-        "casesPerOneMillion": "963",
-        "tests": "6722",
-        "cases": "92830",
-        "todayCases": "250",
-        "population": "923",
-        "todayDeaths": "300",
-        "deaths": "198",
-        "active": "593",
-        "testsPerOneMillion": "711",
-        "recovered": "96",
-        "name": "Bennington",
-        "state": "Mount Rahumpauls",
-        "deathsPerOneMillion": "553"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              20.32360450370663,
-              25.691798991921168
-            ],
-            [
-              18.685382164242125,
-              25.561493935583066
-            ],
-            [
-              19.3727566159672,
-              20.104868901894328
-            ],
-            [
-              20.32360450370663,
-              25.691798991921168
-            ]
-          ]
-        ]
-      },
-      "properties": {
-        "casesPerOneMillion": "554",
-        "tests": "7275",
-        "cases": "52862",
-        "todayCases": "170",
-        "population": "70",
-        "todayDeaths": "993",
-        "deaths": "244",
-        "active": "412",
-        "testsPerOneMillion": "949",
-        "recovered": "199",
-        "name": "Palmdale",
-        "state": "Berghclearin",
-        "deathsPerOneMillion": "562"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              28.147591702481392,
-              33.11641872166197
-            ],
-            [
-              30.719906507544053,
-              33.134683751383506
-            ],
-            [
-              30.786615678497398,
-              29.986130542250216
-            ],
-            [
-              28.147591702481392,
-              33.11641872166197
-            ]
-          ]
-        ]
-      },
-      "properties": {
-        "casesPerOneMillion": "928",
-        "tests": "9984",
-        "cases": "90068",
-        "todayCases": "226",
-        "population": "484",
-        "todayDeaths": "485",
-        "deaths": "186",
-        "active": "913",
-        "testsPerOneMillion": "575",
-        "recovered": "486",
-        "name": "Quincy",
-        "state": "Slingwoulds",
-        "deathsPerOneMillion": "991"
-      },
-      "type": "Feature"
-    }
-  ],
-  "coordinateSystem": "custom",
-  "type": "FeatureCollection",
-  
-  "name": "NEWMAP2QGIS"
-}
+    "initialViewState" :[
+               10.277530963995087,
+               22.863354328395513
+             ],
+   
+   "features": [
+     {
+       "geometry": {
+         "type": "Polygon",
+         "coordinates": [
+           [
+             [
+               10.277530963995087,
+               22.863354328395513
+             ],
+             [
+               18.703722159729047,
+               22.881875681335014
+             ],
+             [
+               18.54901742834202,
+               29.118832373519563
+             ],
+             [
+               10.110384580142618,
+               30.153465288773063
+             ],
+             [
+               10.277530963995087,
+               22.863354328395513
+             ]
+           ]
+         ]
+       },
+       "properties": {
+         "casesPerOneMillion": 403,
+         "tests": 2500,
+         "cases": 19560,
+         "todayCases": 200,
+         "population": 499,
+         "todayDeaths": 209,
+         "deaths": 171,
+         "active": 832,
+         "testsPerOneMillion": 923,
+         "recovered": 850,
+         "name": "Berea",
+         "state": "West Pricebo",
+         "deathsPerOneMillion": 376
+       },
+       "type": "Feature"
+     },
+     {
+       "geometry": {
+         "type": "Polygon",
+         "coordinates": [
+           [
+             [
+               27.874687623173635,
+               35.85563738593231
+             ],
+             [
+               28.49908164128764,
+               30.659556447468447
+             ],
+             [
+               18.140371399124348,
+               29.50412905441857
+             ],
+             [
+               19.4039899123525,
+               36.08851702028363
+             ],
+             [
+               27.874687623173635,
+               35.85563738593231
+             ]
+           ]
+         ]
+       },
+       "properties": {
+         "casesPerOneMillion": 916,
+         "tests": 7892,
+         "cases": 82960,
+         "todayCases": 128,
+         "population": 276,
+         "todayDeaths": 255,
+         "deaths": 103,
+         "active": 137,
+         "testsPerOneMillion": 506,
+         "recovered": 312,
+         "name": "Port Lavaca",
+         "state": "Fort Rocamp",
+         "deathsPerOneMillion": 619
+       },
+       "type": "Feature"
+     },
+     {
+       "geometry": {
+         "type": "Polygon",
+         "coordinates": [
+           [
+             [
+               11.788633706705024,
+               36.041682042557774
+             ],
+             [
+               11.788633706705024,
+               29.566381542363594
+             ],
+             [
+               18.308285580188237,
+               29.477678795785586
+             ],
+             [
+               19.239664419257235,
+               35.819925176112754
+             ],
+             [
+               17.909123220587173,
+               36.174736162424786
+             ],
+             [
+               11.788633706705024,
+               36.041682042557774
+             ]
+           ]
+         ]
+       },
+       "properties": {
+         "casesPerOneMillion": 729,
+         "tests": 3335,
+         "cases": 34996,
+         "todayCases": 888,
+         "population": 229,
+         "todayDeaths": 724,
+         "deaths": 162,
+         "active": 385,
+         "testsPerOneMillion": 254,
+         "recovered": 934,
+         "name": "Cedar Falls",
+         "state": "Juanbourne",
+         "deathsPerOneMillion": 738
+       },
+       "type": "Feature"
+     },
+     {
+       "geometry": {
+         "type": "Polygon",
+         "coordinates": [
+           [
+             [
+               14.283947076892467,
+               11.088077658091557
+             ],
+             [
+               19.961078758711572,
+               11.074044498422104
+             ],
+             [
+               19.877646760926176,
+               18.391679878594182
+             ],
+             [
+               14.289453416861782,
+               18.36183600964325
+             ],
+             [
+               14.283947076892467,
+               11.088077658091557
+             ]
+           ]
+         ]
+       },
+       "properties": {
+         "casesPerOneMillion": 350,
+         "tests": 2740,
+         "cases": 34128,
+         "todayCases": 567,
+         "population": 215,
+         "todayDeaths": 983,
+         "deaths": 204,
+         "active": 23,
+         "testsPerOneMillion": 986,
+         "recovered": 493,
+         "name": "Santa Clara",
+         "state": "Rstonpen Upon Rderportmere",
+         "deathsPerOneMillion": 162
+       },
+       "type": "Feature"
+     },
+     {
+       "geometry": {
+         "type": "Polygon",
+         "coordinates": [
+           [
+             [
+               25.516646315652387,
+               32.20281076419799
+             ],
+             [
+               30.08483776441954,
+               32.158459390909016
+             ],
+             [
+               30.129189137708572,
+               23.19948198653076
+             ],
+             [
+               25.472294942363355,
+               23.110779239952752
+             ],
+             [
+               25.516646315652387,
+               32.20281076419799
+             ]
+           ]
+         ]
+       },
+       "properties": {
+         "casesPerOneMillion": 293,
+         "tests": 5976,
+         "cases": 90971,
+         "population": 88,
+         "todayCases": 605,
+         "todayDeaths": 664,
+         "deaths": 269,
+         "active": 20,
+         "testsPerOneMillion": 181,
+         "recovered": 202,
+         "name": "Shiprock",
+         "state": "Port Nersthat",
+         "deathsPerOneMillion": 369
+       },
+       "type": "Feature"
+     },
+     {
+       "geometry": {
+         "type": "Polygon",
+         "coordinates": [
+           [
+             [
+               36.366759761366026,
+               32.99044089917985
+             ],
+             [
+               36.50989134891431,
+               25.628969945323924
+             ],
+             [
+               32.78414991245204,
+               25.645776574677747
+             ],
+             [
+               30.278243742808787,
+               28.643225178887214
+             ],
+             [
+               31.620964618269273,
+               32.99970584720612
+             ],
+             [
+               36.366759761366026,
+               32.99044089917985
+             ]
+           ]
+         ]
+       },
+       "properties": {
+         "casesPerOneMillion": 113,
+         "tests": 8862,
+         "cases": 56258,
+         "todayCases": 163,
+         "population": 962,
+         "todayDeaths": 70,
+         "deaths": 181,
+         "active": 162,
+         "testsPerOneMillion": 658,
+         "recovered": 583,
+         "name": "Homer",
+         "state": "Gool Heath",
+         "deathsPerOneMillion": 525
+       },
+       "type": "Feature"
+     },
+     {
+       "geometry": {
+         "type": "Polygon",
+         "coordinates": [
+           [
+             [
+               20.386949526454032,
+               20.554896865557478
+             ],
+             [
+               20.405074771291197,
+               27.074674397898914
+             ],
+             [
+               25.239513754120367,
+               27.04976970241071
+             ],
+             [
+               25.221388509283088,
+               20.529992170069274
+             ],
+             [
+               20.386949526454032,
+               20.554896865557478
+             ]
+           ]
+         ]
+       },
+       "properties": {
+         "casesPerOneMillion": 560,
+         "tests": 5984,
+         "cases": 62980,
+         "todayCases": 770,
+         "population": 910,
+         "todayDeaths": 760,
+         "deaths": 182,
+         "active": 160,
+         "testsPerOneMillion": 291,
+         "recovered": 727,
+         "name": "Eugene",
+         "state": "Grandwehithewick",
+         "deathsPerOneMillion": 615
+       },
+       "type": "Feature"
+     },
+     {
+       "geometry": {
+         "type": "Polygon",
+         "coordinates": [
+           [
+             [
+               31.60830392954253,
+               21.788401977335802
+             ],
+             [
+               32.68565842736072,
+               25.841382422042038
+             ],
+             [
+               39.29431681690889,
+               26.007086325855248
+             ],
+             [
+               39.498548727608835,
+               21.221288457853625
+             ],
+             [
+               37.8994475316849,
+               21.227030548176707
+             ],
+             [
+               31.60830392954253,
+               21.788401977335802
+             ]
+           ]
+         ]
+       },
+       "properties": {
+         "casesPerOneMillion": 851,
+         "tests": 7349,
+         "cases": 66051,
+         "todayCases": 133,
+         "population": 760,
+         "todayDeaths": 452,
+         "deaths": 192,
+         "active": 706,
+         "testsPerOneMillion": 627,
+         "recovered": 715,
+         "name": "Irvington",
+         "state": "Fort Paignlu Aux Grangeas",
+         "deathsPerOneMillion": 407
+       },
+       "type": "Feature"
+     },
+     {
+       "geometry": {
+         "type": "Polygon",
+         "coordinates": [
+           [
+             [
+               11.84241071696066,
+               11.018494763834177
+             ],
+             [
+               14.237254915694837,
+               11.043444300723472
+             ],
+             [
+               14.288054983977407,
+               23.19690927481005
+             ],
+             [
+               11.804974880418047,
+               23.126686714355653
+             ],
+             [
+               11.84241071696066,
+               11.018494763834177
+             ]
+           ]
+         ]
+       },
+       "properties": {
+         "casesPerOneMillion": 29,
+         "tests": 3085,
+         "cases": 38598,
+         "todayCases": 605,
+         "population": 42,
+         "todayDeaths": 64,
+         "deaths": 194,
+         "active": 98,
+         "testsPerOneMillion": 365,
+         "recovered": 378,
+         "name": "North Chicago",
+         "state": "Di Valley",
+         "deathsPerOneMillion": 760
+       },
+       "type": "Feature"
+     },
+     {
+       "geometry": {
+         "type": "Polygon",
+         "coordinates": [
+           [
+             [
+               33.757952237350665,
+               13.799809395789914
+             ],
+             [
+               33.757952237350665,
+               11.05002425187184
+             ],
+             [
+               36.55208875455766,
+               11.05002425187184
+             ],
+             [
+               36.50773738126874,
+               13.755458022500939
+             ],
+             [
+               33.757952237350665,
+               13.799809395789914
+             ]
+           ]
+         ]
+       },
+       "properties": {
+         "casesPerOneMillion": 478,
+         "tests": 716,
+         "cases": 44826,
+         "todayCases": 94,
+         "population": 754,
+         "todayDeaths": 201,
+         "deaths": 132,
+         "active": 727,
+         "testsPerOneMillion": 27,
+         "recovered": 590,
+         "name": "Oak Harbor",
+         "state": "Cleahoemouth",
+         "deathsPerOneMillion": 311
+       },
+       "type": "Feature"
+     },
+     {
+       "geometry": {
+         "type": "Polygon",
+         "coordinates": [
+           [
+             [
+               36.42641097475371,
+               33.32726427371583
+             ],
+             [
+               36.41606135981897,
+               35.98832654485946
+             ],
+             [
+               26.880588221554486,
+               35.95124042467688
+             ],
+             [
+               36.42641097475371,
+               33.32726427371583
+             ]
+           ]
+         ]
+       },
+       "properties": {
+         "casesPerOneMillion": 782,
+         "tests": 7976,
+         "cases": 78633,
+         "todayCases": 293,
+         "population": 678,
+         "todayDeaths": 522,
+         "deaths": 21,
+         "active": 81,
+         "testsPerOneMillion": 546,
+         "recovered": 226,
+         "name": "Salem",
+         "state": "New Jormuchchien",
+         "deathsPerOneMillion": 438
+       },
+       "type": "Feature"
+     },
+     {
+       "geometry": {
+         "type": "Polygon",
+         "coordinates": [
+           [
+             [
+               37.35653817057462,
+               32.9835264094186
+             ],
+             [
+               28.0429699149461,
+               33.13118795863886
+             ],
+             [
+               27.91395043679043,
+               35.703773125494365
+             ],
+             [
+               37.35653817057462,
+               32.9835264094186
+             ]
+           ]
+         ]
+       },
+       "properties": {
+         "casesPerOneMillion": 598,
+         "tests": 6722,
+         "cases": 25254,
+         "todayCases": 427,
+         "population": 218,
+         "todayDeaths": 464,
+         "deaths": 289,
+         "active": 449,
+         "testsPerOneMillion": 826,
+         "recovered": 393,
+         "name": "Rochester",
+         "state": "Seking",
+         "deathsPerOneMillion": 80
+       },
+       "type": "Feature"
+     },
+     {
+       "geometry": {
+         "type": "Polygon",
+         "coordinates": [
+           [
+             [
+               33.713126207764645,
+               15.62826946093411
+             ],
+             [
+               32.471396592787556,
+               15.64471039712986
+             ],
+             [
+               32.49902523084452,
+               11.031397474629092
+             ],
+             [
+               33.65205987332334,
+               11.01613089101885
+             ],
+             [
+               33.713126207764645,
+               15.62826946093411
+             ]
+           ]
+         ]
+       },
+       "properties": {
+         "casesPerOneMillion": 569,
+         "tests": 7012,
+         "cases": 29694,
+         "todayCases": 448,
+         "population": 113,
+         "todayDeaths": 720,
+         "deaths": 119,
+         "active": 142,
+         "testsPerOneMillion": 352,
+         "recovered": 374,
+         "name": "Dayton",
+         "state": "South Coeurchary",
+         "deathsPerOneMillion": 605
+       },
+       "type": "Feature"
+     },
+     {
+       "geometry": {
+         "type": "Polygon",
+         "coordinates": [
+           [
+             [
+               27.247540715519126,
+               23.86658018874761
+             ],
+             [
+               34.87597692122735,
+               23.77787744216963
+             ],
+             [
+               34.92032829451638,
+               15.484170637126372
+             ],
+             [
+               32.96886786980033,
+               15.528522010415376
+             ],
+             [
+               32.835813749933344,
+               20.495875818783535
+             ],
+             [
+               27.203189342230093,
+               20.62892993865052
+             ],
+             [
+               27.247540715519126,
+               23.86658018874761
+             ]
+           ]
+         ]
+       },
+       "properties": {
+         "casesPerOneMillion": 588,
+         "tests": 7806,
+         "cases": 68489,
+         "todayCases": 998,
+         "population": 126,
+         "todayDeaths": 579,
+         "deaths": 47,
+         "active": 885,
+         "testsPerOneMillion": 520,
+         "recovered": 264,
+         "name": "Cairo",
+         "state": "Cape Smereley",
+         "deathsPerOneMillion": 538
+       },
+       "type": "Feature"
+     },
+     {
+       "geometry": {
+         "type": "Polygon",
+         "coordinates": [
+           [
+             [
+               34.891494701500996,
+               22.10069176675004
+             ],
+             [
+               38.483955937910004,
+               22.10069176675004
+             ],
+             [
+               38.6170100577771,
+               13.806984961706782
+             ],
+             [
+               34.935846074789914,
+               13.806984961706782
+             ],
+             [
+               34.891494701500996,
+               22.10069176675004
+             ]
+           ]
+         ]
+       },
+       "properties": {
+         "casesPerOneMillion": 830,
+         "tests": 2854,
+         "cases": 96841,
+         "todayCases": 102,
+         "population": 467,
+         "todayDeaths": 114,
+         "deaths": 272,
+         "active": 171,
+         "testsPerOneMillion": 816,
+         "recovered": 730,
+         "name": "Arthur",
+         "state": "Red Thirsksouthwark",
+         "deathsPerOneMillion": 738
+       },
+       "type": "Feature"
+     },
+     {
+       "geometry": {
+         "type": "Polygon",
+         "coordinates": [
+           [
+             [
+               14.44028070577205,
+               17.393832464755967
+             ],
+             [
+               14.293902443931,
+               24.17859346982015
+             ],
+             [
+               18.418808139476862,
+               24.169303312663708
+             ],
+             [
+               18.431383117885655,
+               17.472110894471932
+             ],
+             [
+               14.44028070577205,
+               17.393832464755967
+             ]
+           ]
+         ]
+       },
+       "properties": {
+         "casesPerOneMillion": 448,
+         "tests": 6808,
+         "cases": 80642,
+         "todayCases": 568,
+         "population": 179,
+         "todayDeaths": 216,
+         "deaths": 39,
+         "active": 245,
+         "testsPerOneMillion": 113,
+         "recovered": 352,
+         "name": "Liberal",
+         "state": "Hexrellsea",
+         "deathsPerOneMillion": 238
+       },
+       "type": "Feature"
+     },
+     {
+       "geometry": {
+         "type": "Polygon",
+         "coordinates": [
+           [
+             [
+               32.87325161610289,
+               20.476481475319407
+             ],
+             [
+               22.13940219162867,
+               20.489250806692485
+             ],
+             [
+               22.210986431102178,
+               15.964020633101942
+             ],
+             [
+               32.85493624383747,
+               15.863761792014035
+             ],
+             [
+               32.87325161610289,
+               20.476481475319407
+             ]
+           ]
+         ]
+       },
+       "properties": {
+         "casesPerOneMillion": 466,
+         "tests": 9660,
+         "cases": 38289,
+         "todayCases": 134,
+         "population": 107,
+         "todayDeaths": 136,
+         "deaths": 312,
+         "active": 792,
+         "testsPerOneMillion": 536,
+         "recovered": 37,
+         "name": "Saint Albans",
+         "state": "Royal Mseytinssaint",
+         "deathsPerOneMillion": 836
+       },
+       "type": "Feature"
+     },
+     {
+       "geometry": {
+         "type": "Polygon",
+         "coordinates": [
+           [
+             [
+               28.567763596664594,
+               11.01590102427836
+             ],
+             [
+               19.96351150546231,
+               11.038098887490303
+             ],
+             [
+               19.89586499017982,
+               20.085634856321303
+             ],
+             [
+               22.069075077972816,
+               20.091230293385262
+             ],
+             [
+               22.21274866797957,
+               15.966908826986025
+             ],
+             [
+               28.68825609026364,
+               15.894878493021803
+             ],
+             [
+               28.567763596664594,
+               11.01590102427836
+             ]
+           ]
+         ]
+       },
+       "properties": {
+         "casesPerOneMillion": 963,
+         "tests": 6722,
+         "cases": 92830,
+         "todayCases": 250,
+         "population": 923,
+         "todayDeaths": 300,
+         "deaths": 198,
+         "active": 593,
+         "testsPerOneMillion": 711,
+         "recovered": 96,
+         "name": "Bennington",
+         "state": "Mount Rahumpauls",
+         "deathsPerOneMillion": 553
+       },
+       "type": "Feature"
+     },
+     {
+       "geometry": {
+         "type": "Polygon",
+         "coordinates": [
+           [
+             [
+               20.32360450370663,
+               25.691798991921168
+             ],
+             [
+               18.685382164242125,
+               25.561493935583066
+             ],
+             [
+               19.3727566159672,
+               20.104868901894328
+             ],
+             [
+               20.32360450370663,
+               25.691798991921168
+             ]
+           ]
+         ]
+       },
+       "properties": {
+         "casesPerOneMillion": 554,
+         "tests": 7275,
+         "cases": 52862,
+         "todayCases": 170,
+         "population": 70,
+         "todayDeaths": 993,
+         "deaths": 244,
+         "active": 412,
+         "testsPerOneMillion": 949,
+         "recovered": 199,
+         "name": "Palmdale",
+         "state": "Berghclearin",
+         "deathsPerOneMillion": 562
+       },
+       "type": "Feature"
+     },
+     {
+       "geometry": {
+         "type": "Polygon",
+         "coordinates": [
+           [
+             [
+               28.147591702481392,
+               33.11641872166197
+             ],
+             [
+               30.719906507544053,
+               33.134683751383506
+             ],
+             [
+               30.786615678497398,
+               29.986130542250216
+             ],
+             [
+               28.147591702481392,
+               33.11641872166197
+             ]
+           ]
+         ]
+       },
+       "properties": {
+         "casesPerOneMillion": 928,
+         "tests": 9984,
+         "cases": 90068,
+         "todayCases": 226,
+         "population": 484,
+         "todayDeaths": 485,
+         "deaths": 186,
+         "active": 913,
+         "testsPerOneMillion": 575,
+         "recovered": 486,
+         "name": "Quincy",
+         "state": "Slingwoulds",
+         "deathsPerOneMillion": 991
+       },
+       "type": "Feature"
+     }
+   ],
+   "coordinateSystem": "custom",
+   "type": "FeatureCollection",
+   
+   "name": "NEWMAP2QGIS"
+ }
