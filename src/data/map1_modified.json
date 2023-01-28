@@ -1,985 +1,967 @@
 {
-  "type": "FeatureCollection",
-  "name": "editedmap1QGIS",
-  "features": [
-    {
-      "type": "Feature",
-      "properties": {
-        "Name": "state1",
-        "name": "East Chicago",
-        "tests": "7282",
-        "cases": "73273",
-        "deaths": "292",
-        "state": "East Newsyork",
-        "todayCases": "310",
-        "todayDeaths": "325",
-        "recovered": "283",
-        "active": "653",
-        "casesPerOneMillion": "846",
-        "deathsPerOneMillion": "334",
-        "testsPerOneMillion": "923",
-        "population": "597"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
+    "type": "FeatureCollection",
+    "name": "editedmap1QGIS",
+    "features": [
+      {
+        "type": "Feature",
+        "properties": {
+          "Name": "state1",
+          "name": "East Chicago",
+          "tests": 7282,
+          "cases": 73273,
+          "deaths": 292,
+          "todayCases": 310,
+          "todayDeaths": 325,
+          "recovered": 283,
+          "active": 653,
+          "casesPerOneMillion": 846,
+          "deathsPerOneMillion": 334,
+          "testsPerOneMillion": 923,
+          "population": 597
+        },
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [
             [
-              5.825677560708367,
-              1.324621987523869
-            ],
-            [
-              5.744660040967867,
-              -7.101200065491184
-            ],
-            [
-              11.983009060988659,
-              -7.020182545750686
-            ],
-            [
-              13.117254337355982,
-              1.405639507264482
-            ],
-            [
-              5.825677560708367,
-              1.324621987523869
+              [
+                5.825677560708367,
+                1.324621987523869
+              ],
+              [
+                5.744660040967867,
+                -7.101200065491184
+              ],
+              [
+                11.983009060988659,
+                -7.020182545750686
+              ],
+              [
+                13.117254337355982,
+                1.405639507264482
+              ],
+              [
+                5.825677560708367,
+                1.324621987523869
+              ]
             ]
           ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Name": "state2",
-        "name": "Edison",
-        "tests": "3224",
-        "cases": "22271",
-        "deaths": "251",
-        "state": "Fort Gasp",
-        "todayCases": "198",
-        "todayDeaths": "486",
-        "recovered": "60",
-        "active": "773",
-        "casesPerOneMillion": "494",
-        "deathsPerOneMillion": "230",
-        "testsPerOneMillion": "784",
-        "population": "494"
+        }
       },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
+      {
+        "type": "Feature",
+        "properties": {
+          "Name": "state2",
+          "name": "Edison",
+          "tests": 3224,
+          "cases": 22271,
+          "deaths": 251,
+          "todayCases": 198,
+          "todayDeaths": 486,
+          "recovered": 60,
+          "active": 773,
+          "casesPerOneMillion": 494,
+          "deathsPerOneMillion": 230,
+          "testsPerOneMillion": 784,
+          "population": 494
+        },
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [
             [
-              13.142057599978331,
-              1.340089801375925
-            ],
-            [
-              18.375519648080402,
-              1.340089801375925
-            ],
-            [
-              18.286816901502448,
-              -9.082482921539295
-            ],
-            [
-              11.90021914788622,
-              -7.042319750245284
-            ],
-            [
-              13.142057599978331,
-              1.340089801375925
+              [
+                13.142057599978331,
+                1.340089801375925
+              ],
+              [
+                18.375519648080402,
+                1.340089801375925
+              ],
+              [
+                18.286816901502448,
+                -9.082482921539295
+              ],
+              [
+                11.90021914788622,
+                -7.042319750245284
+              ],
+              [
+                13.142057599978331,
+                1.340089801375925
+              ]
             ]
           ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Name": "state3",
-        "name": "Chesapeake",
-        "tests": "9222",
-        "cases": "28213",
-        "deaths": "280",
-        "state": "St Bansterbeth",
-        "todayCases": "413",
-        "todayDeaths": "969",
-        "recovered": "321",
-        "active": "884",
-        "casesPerOneMillion": "906",
-        "deathsPerOneMillion": "18",
-        "testsPerOneMillion": "773",
-        "population": "592"
+        }
       },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
+      {
+        "type": "Feature",
+        "properties": {
+          "Name": "state3",
+          "name": "Chesapeake",
+          "tests": 9222,
+          "cases": 28213,
+          "deaths": 280,
+          "todayCases": 413,
+          "todayDeaths": 969,
+          "recovered": 321,
+          "active": 884,
+          "casesPerOneMillion": 906,
+          "deathsPerOneMillion": 18,
+          "testsPerOneMillion": 773,
+          "population": 592
+        },
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [
             [
-              5.850423395931621,
-              -7.171232910749126
-            ],
-            [
-              5.850423395931621,
-              -13.646533410943306
-            ],
-            [
-              12.370075269414833,
-              -13.735236157521257
-            ],
-            [
-              13.301454108483831,
-              -7.392989777194174
-            ],
-            [
-              11.97091290981377,
-              -7.038178790882142
-            ],
-            [
-              5.850423395931621,
-              -7.171232910749126
+              [
+                5.850423395931621,
+                -7.171232910749126
+              ],
+              [
+                5.850423395931621,
+                -13.646533410943306
+              ],
+              [
+                12.370075269414833,
+                -13.735236157521257
+              ],
+              [
+                13.301454108483831,
+                -7.392989777194174
+              ],
+              [
+                11.97091290981377,
+                -7.038178790882142
+              ],
+              [
+                5.850423395931621,
+                -7.171232910749126
+              ]
             ]
           ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Name": "state5",
-        "name": "Newport Beach",
-        "tests": "3471",
-        "cases": "19872",
-        "deaths": "255",
-        "state": "Parmeau",
-        "todayCases": "499",
-        "todayDeaths": "188",
-        "recovered": "930",
-        "active": "629",
-        "casesPerOneMillion": "596",
-        "deathsPerOneMillion": "202",
-        "testsPerOneMillion": "748",
-        "population": "697"
+        }
       },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
+      {
+        "type": "Feature",
+        "properties": {
+          "Name": "state5",
+          "name": "Newport Beach",
+          "tests": 3471,
+          "cases": 19872,
+          "deaths": 255,
+          "todayCases": 499,
+          "todayDeaths": 188,
+          "recovered": 930,
+          "active": 629,
+          "casesPerOneMillion": 596,
+          "deathsPerOneMillion": 202,
+          "testsPerOneMillion": 748,
+          "population": 697
+        },
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [
             [
-              18.481970744672648,
-              1.339222081811769
-            ],
-            [
-              18.437619371383615,
-              -4.337753699180396
-            ],
-            [
-              25.755595964068842,
-              -4.293402325891364
-            ],
-            [
-              25.755595964068842,
-              1.294870708522737
-            ],
-            [
-              18.481970744672648,
-              1.339222081811769
+              [
+                18.481970744672648,
+                1.339222081811769
+              ],
+              [
+                18.437619371383615,
+                -4.337753699180396
+              ],
+              [
+                25.755595964068842,
+                -4.293402325891364
+              ],
+              [
+                25.755595964068842,
+                1.294870708522737
+              ],
+              [
+                18.481970744672648,
+                1.339222081811769
+              ]
             ]
           ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Name": "state4",
-        "name": "Fairmont",
-        "tests": "1358",
-        "cases": "99744",
-        "deaths": "238",
-        "state": "Mitpayne-On-Sea",
-        "todayCases": "343",
-        "todayDeaths": "774",
-        "recovered": "837",
-        "active": "772",
-        "casesPerOneMillion": "805",
-        "deathsPerOneMillion": "690",
-        "testsPerOneMillion": "425",
-        "population": "196"
+        }
       },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
+      {
+        "type": "Feature",
+        "properties": {
+          "Name": "state4",
+          "name": "Fairmont",
+          "tests": 1358,
+          "cases": 99744,
+          "deaths": 238,
+          "todayCases": 343,
+          "todayDeaths": 774,
+          "recovered": 837,
+          "active": 772,
+          "casesPerOneMillion": 805,
+          "deathsPerOneMillion": 690,
+          "testsPerOneMillion": 425,
+          "population": 196
+        },
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [
             [
-              25.850466951767295,
-              -10.516372628221133
-            ],
-            [
-              30.418658400534447,
-              -10.560724001510165
-            ],
-            [
-              30.46300977382348,
-              -19.51970140588834
-            ],
-            [
-              25.806115578478263,
-              -19.608404152466406
-            ],
-            [
-              25.850466951767295,
-              -10.516372628221133
+              [
+                25.850466951767295,
+                -10.516372628221133
+              ],
+              [
+                30.418658400534447,
+                -10.560724001510165
+              ],
+              [
+                30.46300977382348,
+                -19.51970140588834
+              ],
+              [
+                25.806115578478263,
+                -19.608404152466406
+              ],
+              [
+                25.850466951767295,
+                -10.516372628221133
+              ]
             ]
           ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Name": "state6",
-        "name": "Victorville",
-        "tests": "8743",
-        "cases": "78879",
-        "deaths": "259",
-        "state": "North Morchet",
-        "todayCases": "650",
-        "todayDeaths": "541",
-        "recovered": "706",
-        "active": "908",
-        "casesPerOneMillion": "585",
-        "deathsPerOneMillion": "963",
-        "testsPerOneMillion": "916",
-        "population": "365"
+        }
       },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
+      {
+        "type": "Feature",
+        "properties": {
+          "Name": "state6",
+          "name": "Victorville",
+          "tests": 8743,
+          "cases": 78879,
+          "deaths": 259,
+          "todayCases": 650,
+          "todayDeaths": 541,
+          "recovered": 706,
+          "active": 908,
+          "casesPerOneMillion": 585,
+          "deathsPerOneMillion": 963,
+          "testsPerOneMillion": 916,
+          "population": 365
+        },
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [
             [
-              18.395986445401995,
-              -4.369653152145688
-            ],
-            [
-              25.758314411376254,
-              -4.280950405567623
-            ],
-            [
-              25.713963038087222,
-              -8.006465761843728
-            ],
-            [
-              22.69806965443518,
-              -10.490142666027836
-            ],
-            [
-              18.351635072113076,
-              -9.115250094068742
-            ],
-            [
-              18.395986445401995,
-              -4.369653152145688
+              [
+                18.395986445401995,
+                -4.369653152145688
+              ],
+              [
+                25.758314411376254,
+                -4.280950405567623
+              ],
+              [
+                25.713963038087222,
+                -8.006465761843728
+              ],
+              [
+                22.69806965443518,
+                -10.490142666027836
+              ],
+              [
+                18.351635072113076,
+                -9.115250094068742
+              ],
+              [
+                18.395986445401995,
+                -4.369653152145688
+              ]
             ]
           ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Name": "state7",
-        "name": "Globe",
-        "tests": "3943",
-        "cases": "22659",
-        "deaths": "360",
-        "state": "South Psham",
-        "todayCases": "601",
-        "todayDeaths": "545",
-        "recovered": "39",
-        "active": "532",
-        "casesPerOneMillion": "138",
-        "deathsPerOneMillion": "965",
-        "testsPerOneMillion": "32",
-        "population": "480"
+        }
       },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
+      {
+        "type": "Feature",
+        "properties": {
+          "Name": "state7",
+          "name": "Globe",
+          "tests": 3943,
+          "cases": 22659,
+          "deaths": 360,
+          "todayCases": 601,
+          "todayDeaths": 545,
+          "recovered": 39,
+          "active": 532,
+          "casesPerOneMillion": 138,
+          "deathsPerOneMillion": 965,
+          "testsPerOneMillion": 32,
+          "population": 480
+        },
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [
             [
-              5.848605009668283,
-              -13.64590644388528
-            ],
-            [
-              12.368256883151496,
-              -13.690257817174313
-            ],
-            [
-              12.323905509862463,
-              -18.524557505675432
-            ],
-            [
-              5.804253636379364,
-              -18.4802061323864
-            ],
-            [
-              5.848605009668283,
-              -13.64590644388528
+              [
+                5.848605009668283,
+                -13.64590644388528
+              ],
+              [
+                12.368256883151496,
+                -13.690257817174313
+              ],
+              [
+                12.323905509862463,
+                -18.524557505675432
+              ],
+              [
+                5.804253636379364,
+                -18.4802061323864
+              ],
+              [
+                5.848605009668283,
+                -13.64590644388528
+              ]
             ]
           ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Name": "state8",
-        "name": "Pontiac",
-        "tests": "6944",
-        "cases": "61956",
-        "deaths": "139",
-        "state": "North Tersfolk",
-        "todayCases": "641",
-        "todayDeaths": "912",
-        "recovered": "954",
-        "active": "829",
-        "casesPerOneMillion": "467",
-        "deathsPerOneMillion": "599",
-        "testsPerOneMillion": "297",
-        "population": "166"
+        }
       },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
+      {
+        "type": "Feature",
+        "properties": {
+          "Name": "state8",
+          "name": "Pontiac",
+          "tests": 6944,
+          "cases": 61956,
+          "deaths": 139,
+          "state": "North Tersfolk",
+          "todayCases": 641,
+          "todayDeaths": 912,
+          "recovered": 954,
+          "active": 829,
+          "casesPerOneMillion": 467,
+          "deathsPerOneMillion": 599,
+          "testsPerOneMillion": 297,
+          "population": 166
+        },
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [
             [
-              13.331288864260468,
-              -7.498011432249086
-            ],
-            [
-              17.322912460270654,
-              -8.784201257630116
-            ],
-            [
-              17.14550696711464,
-              -15.39255587769128
-            ],
-            [
-              12.355558651902438,
-              -15.348204504402247
-            ],
-            [
-              12.444261398480503,
-              -13.751555065998218
-            ],
-            [
-              13.331288864260468,
-              -7.498011432249086
+              [
+                13.331288864260468,
+                -7.498011432249086
+              ],
+              [
+                17.322912460270654,
+                -8.784201257630116
+              ],
+              [
+                17.14550696711464,
+                -15.39255587769128
+              ],
+              [
+                12.355558651902438,
+                -15.348204504402247
+              ],
+              [
+                12.444261398480503,
+                -13.751555065998218
+              ],
+              [
+                13.331288864260468,
+                -7.498011432249086
+              ]
             ]
           ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Name": "state9",
-        "name": "Council Bluffs",
-        "tests": "6470",
-        "cases": "47500",
-        "deaths": "197",
-        "state": "New Battlomp-In-Castney",
-        "todayCases": "775",
-        "todayDeaths": "350",
-        "recovered": "788",
-        "active": "436",
-        "casesPerOneMillion": "704",
-        "deathsPerOneMillion": "114",
-        "testsPerOneMillion": "780",
-        "population": "505"
+        }
       },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
+      {
+        "type": "Feature",
+        "properties": {
+          "Name": "state9",
+          "name": "Council Bluffs",
+          "tests": 6470,
+          "cases": 47500,
+          "deaths": 197,
+          "state": "New Battlomp-In-Castney",
+          "todayCases": 775,
+          "todayDeaths": 350,
+          "recovered": 788,
+          "active": 436,
+          "casesPerOneMillion": 704,
+          "deathsPerOneMillion": 114,
+          "testsPerOneMillion": 780,
+          "population": 505
+        },
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [
             [
-              5.799564748579026,
-              -18.427332265536975
-            ],
-            [
-              5.799564748579026,
-              -20.82230642314302
-            ],
-            [
-              17.95184102976537,
-              -20.999711916299034
-            ],
-            [
-              17.907489656476336,
-              -18.516035012114926
-            ],
-            [
-              5.799564748579026,
-              -18.427332265536975
+              [
+                5.799564748579026,
+                -18.427332265536975
+              ],
+              [
+                5.799564748579026,
+                -20.82230642314302
+              ],
+              [
+                17.95184102976537,
+                -20.999711916299034
+              ],
+              [
+                17.907489656476336,
+                -18.516035012114926
+              ],
+              [
+                5.799564748579026,
+                -18.427332265536975
+              ]
             ]
           ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Name": "state10",
-        "name": "Sun Valley",
-        "tests": "9929",
-        "cases": "45972",
-        "deaths": "300",
-        "state": "Ferbel",
-        "todayCases": "720",
-        "todayDeaths": "950",
-        "recovered": "271",
-        "active": "347",
-        "casesPerOneMillion": "616",
-        "deathsPerOneMillion": "153",
-        "testsPerOneMillion": "713",
-        "population": "761"
+        }
       },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
+      {
+        "type": "Feature",
+        "properties": {
+          "Name": "state10",
+          "name": "Sun Valley",
+          "tests": 9929,
+          "cases": 45972,
+          "deaths": 300,
+          "todayCases": 720,
+          "todayDeaths": 950,
+          "recovered": 271,
+          "active": 347,
+          "casesPerOneMillion": 616,
+          "deathsPerOneMillion": 153,
+          "testsPerOneMillion": 713,
+          "population": 761
+        },
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [
             [
-              5.743821052583279,
-              -20.85856081975534
-            ],
-            [
-              5.743821052583279,
-              -23.608345963673415
-            ],
-            [
-              8.537957569790272,
-              -23.608345963673415
-            ],
-            [
-              8.493606196501354,
-              -20.90291219304426
-            ],
-            [
-              5.743821052583279,
-              -20.85856081975534
+              [
+                5.743821052583279,
+                -20.85856081975534
+              ],
+              [
+                5.743821052583279,
+                -23.608345963673415
+              ],
+              [
+                8.537957569790272,
+                -23.608345963673415
+              ],
+              [
+                8.493606196501354,
+                -20.90291219304426
+              ],
+              [
+                5.743821052583279,
+                -20.85856081975534
+              ]
             ]
           ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Name": "state11",
-        "name": "Rapid City",
-        "tests": "8753",
-        "cases": "96658",
-        "deaths": "17",
-        "state": "San Ronhu",
-        "todayCases": "49",
-        "todayDeaths": "601",
-        "recovered": "319",
-        "active": "36",
-        "casesPerOneMillion": "586",
-        "deathsPerOneMillion": "269",
-        "testsPerOneMillion": "871",
-        "population": "757"
+        }
       },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
+      {
+        "type": "Feature",
+        "properties": {
+          "Name": "state11",
+          "name": "Rapid City",
+          "tests": 8753,
+          "cases": 96658,
+          "deaths": 17,
+          "todayCases": 49,
+          "todayDeaths": 601,
+          "recovered": 319,
+          "active": 36,
+          "casesPerOneMillion": 586,
+          "deathsPerOneMillion": 269,
+          "testsPerOneMillion": 871,
+          "population": 757
+        },
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [
             [
-              8.542674418628922,
-              -20.94591698634898
-            ],
-            [
-              8.542674418628922,
-              -23.606999383689104
-            ],
-            [
-              18.078219675764174,
-              -23.606999383689104
-            ],
-            [
-              8.542674418628922,
-              -20.94591698634898
+              [
+                8.542674418628922,
+                -20.94591698634898
+              ],
+              [
+                8.542674418628922,
+                -23.606999383689104
+              ],
+              [
+                18.078219675764174,
+                -23.606999383689104
+              ],
+              [
+                8.542674418628922,
+                -20.94591698634898
+              ]
             ]
           ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Name": "state12",
-        "name": "Dearborn",
-        "tests": "6532",
-        "cases": "12375",
-        "deaths": "284",
-        "state": "Ginlowhampton",
-        "todayCases": "92",
-        "todayDeaths": "724",
-        "recovered": "783",
-        "active": "48",
-        "casesPerOneMillion": "763",
-        "deathsPerOneMillion": "212",
-        "testsPerOneMillion": "59",
-        "population": "556"
+        }
       },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
+      {
+        "type": "Feature",
+        "properties": {
+          "Name": "state12",
+          "name": "Dearborn",
+          "tests": 6532,
+          "cases": 12375,
+          "deaths": 284,
+          "todayCases": 92,
+          "todayDeaths": 724,
+          "recovered": 783,
+          "active": 48,
+          "casesPerOneMillion": 763,
+          "deathsPerOneMillion": 212,
+          "testsPerOneMillion": 59,
+          "population": 556
+        },
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [
             [
-              8.597554218583534,
-              -20.85633492528129
-            ],
-            [
-              17.911342609273856,
-              -20.989389045148386
-            ],
-            [
-              18.04439672914084,
-              -23.561768695910445
-            ],
-            [
-              8.597554218583534,
-              -20.85633492528129
+              [
+                8.597554218583534,
+                -20.85633492528129
+              ],
+              [
+                17.911342609273856,
+                -20.989389045148386
+              ],
+              [
+                18.04439672914084,
+                -23.561768695910445
+              ],
+              [
+                8.597554218583534,
+                -20.85633492528129
+              ]
             ]
           ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Name": "state13",
-        "name": "Lake Wales",
-        "tests": "5849",
-        "cases": "66280",
-        "deaths": "119",
-        "state": "Mitgon Beach",
-        "todayCases": "533",
-        "todayDeaths": "513",
-        "recovered": "622",
-        "active": "152",
-        "casesPerOneMillion": "165",
-        "deathsPerOneMillion": "208",
-        "testsPerOneMillion": "828",
-        "population": "277"
+        }
       },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
+      {
+        "type": "Feature",
+        "properties": {
+          "Name": "state13",
+          "name": "Lake Wales",
+          "tests": 5849,
+          "cases": 66280,
+          "deaths": 119,
+          "todayCases": 533,
+          "todayDeaths": 513,
+          "recovered": 622,
+          "active": 152,
+          "casesPerOneMillion": 165,
+          "deathsPerOneMillion": 208,
+          "testsPerOneMillion": 828,
+          "population": 277
+        },
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [
             [
-              25.86304263196907,
-              -9.359718358999599
-            ],
-            [
-              25.86304263196907,
-              -10.60155681109171
-            ],
-            [
-              30.475585454025254,
-              -10.512854064513645
-            ],
-            [
-              30.475585454025254,
-              -9.359718358999599
-            ],
-            [
-              25.86304263196907,
-              -9.359718358999599
+              [
+                25.86304263196907,
+                -9.359718358999599
+              ],
+              [
+                25.86304263196907,
+                -10.60155681109171
+              ],
+              [
+                30.475585454025254,
+                -10.512854064513645
+              ],
+              [
+                30.475585454025254,
+                -9.359718358999599
+              ],
+              [
+                25.86304263196907,
+                -9.359718358999599
+              ]
             ]
           ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Name": "state14",
-        "name": "Waterville",
-        "tests": "8343",
-        "cases": "29371",
-        "deaths": "178",
-        "state": "Guiskentbury",
-        "todayCases": "901",
-        "todayDeaths": "528",
-        "recovered": "392",
-        "active": "937",
-        "casesPerOneMillion": "221",
-        "deathsPerOneMillion": "949",
-        "testsPerOneMillion": "687",
-        "population": "935"
+        }
       },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
+      {
+        "type": "Feature",
+        "properties": {
+          "Name": "state14",
+          "name": "Waterville",
+          "tests": 8343,
+          "cases": 29371,
+          "deaths": 178,
+          "todayCases": 901,
+          "todayDeaths": 528,
+          "recovered": 392,
+          "active": 937,
+          "casesPerOneMillion": 221,
+          "deathsPerOneMillion": 949,
+          "testsPerOneMillion": 687,
+          "population": 935
+        },
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [
             [
-              12.338835142949229,
-              -15.274196469013802
-            ],
-            [
-              19.967271348657455,
-              -15.362899215591753
-            ],
-            [
-              20.011622721946488,
-              -23.65660602063501
-            ],
-            [
-              18.060162297230427,
-              -23.61225464734609
-            ],
-            [
-              17.927108177363444,
-              -18.644900838977875
-            ],
-            [
-              12.294483769660197,
-              -18.511846719110892
-            ],
-            [
-              12.338835142949229,
-              -15.274196469013802
+              [
+                12.338835142949229,
+                -15.274196469013802
+              ],
+              [
+                19.967271348657455,
+                -15.362899215591753
+              ],
+              [
+                20.011622721946488,
+                -23.65660602063501
+              ],
+              [
+                18.060162297230427,
+                -23.61225464734609
+              ],
+              [
+                17.927108177363444,
+                -18.644900838977875
+              ],
+              [
+                12.294483769660197,
+                -18.511846719110892
+              ],
+              [
+                12.338835142949229,
+                -15.274196469013802
+              ]
             ]
           ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Name": "state15",
-        "name": "Peekskill",
-        "tests": "1218",
-        "cases": "57039",
-        "deaths": "274",
-        "state": "Bibameadchester",
-        "todayCases": "202",
-        "todayDeaths": "888",
-        "recovered": "475",
-        "active": "725",
-        "casesPerOneMillion": "128",
-        "deathsPerOneMillion": "771",
-        "testsPerOneMillion": "471",
-        "population": "70"
+        }
       },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
+      {
+        "type": "Feature",
+        "properties": {
+          "Name": "state15",
+          "name": "Peekskill",
+          "tests": 1218,
+          "cases": 57039,
+          "deaths": 274,
+          "todayCases": 202,
+          "todayDeaths": 888,
+          "recovered": 475,
+          "active": 725,
+          "casesPerOneMillion": 128,
+          "deathsPerOneMillion": 771,
+          "testsPerOneMillion": 471,
+          "population": 70
+        },
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [
             [
-              19.98943731023359,
-              -15.373480672881612
-            ],
-            [
-              23.5818985466426,
-              -15.373480672881612
-            ],
-            [
-              23.714952666509696,
-              -23.66718747792487
-            ],
-            [
-              20.03378868352251,
-              -23.66718747792487
-            ],
-            [
-              19.98943731023359,
-              -15.373480672881612
+              [
+                19.98943731023359,
+                -15.373480672881612
+              ],
+              [
+                23.5818985466426,
+                -15.373480672881612
+              ],
+              [
+                23.714952666509696,
+                -23.66718747792487
+              ],
+              [
+                20.03378868352251,
+                -23.66718747792487
+              ],
+              [
+                19.98943731023359,
+                -15.373480672881612
+              ]
             ]
           ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Name": "state16",
-        "name": "Johnson City",
-        "tests": "9931",
-        "cases": "49163",
-        "deaths": "57",
-        "state": "Kinsgoul",
-        "todayCases": "520",
-        "todayDeaths": "379",
-        "recovered": "710",
-        "active": "268",
-        "casesPerOneMillion": "729",
-        "deathsPerOneMillion": "195",
-        "testsPerOneMillion": "358",
-        "population": "913"
+        }
       },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
+      {
+        "type": "Feature",
+        "properties": {
+          "Name": "state16",
+          "name": "Johnson City",
+          "tests": 9931,
+          "cases": 49163,
+          "deaths": 57,
+          "todayCases": 520,
+          "todayDeaths": 379,
+          "recovered": 710,
+          "active": 268,
+          "casesPerOneMillion": 729,
+          "deathsPerOneMillion": 195,
+          "testsPerOneMillion": 358,
+          "population": 913
+        },
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [
             [
-              23.70532630861604,
-              -19.65976582555902
-            ],
-            [
-              30.49108642183322,
-              -19.57106307898107
-            ],
-            [
-              30.446735048544188,
-              -23.695740794858125
-            ],
-            [
-              23.749677681905073,
-              -23.651389421569093
-            ],
-            [
-              23.70532630861604,
-              -19.65976582555902
+              [
+                23.70532630861604,
+                -19.65976582555902
+              ],
+              [
+                30.49108642183322,
+                -19.57106307898107
+              ],
+              [
+                30.446735048544188,
+                -23.695740794858125
+              ],
+              [
+                23.749677681905073,
+                -23.651389421569093
+              ],
+              [
+                23.70532630861604,
+                -19.65976582555902
+              ]
             ]
           ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Name": "state17",
-        "name": "Texarkana",
-        "tests": "7598",
-        "cases": "92601",
-        "deaths": "72",
-        "state": "West Rysmans",
-        "todayCases": "291",
-        "todayDeaths": "353",
-        "recovered": "751",
-        "active": "2",
-        "casesPerOneMillion": "113",
-        "deathsPerOneMillion": "206",
-        "testsPerOneMillion": "411",
-        "population": "482"
+        }
       },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
+      {
+        "type": "Feature",
+        "properties": {
+          "Name": "state17",
+          "name": "Texarkana",
+          "tests": 7598,
+          "cases": 92601,
+          "deaths": 72,
+          "state": "West Rysmans",
+          "todayCases": 291,
+          "todayDeaths": 353,
+          "recovered": 751,
+          "active": 2,
+          "casesPerOneMillion": 113,
+          "deathsPerOneMillion": 206,
+          "testsPerOneMillion": 411,
+          "population": 482
+        },
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [
             [
-              25.795449836454125,
-              1.296644150411865
-            ],
-            [
-              25.92850395632111,
-              -9.436388185526356
-            ],
-            [
-              30.452344031799228,
-              -9.303334065659373
-            ],
-            [
-              30.40799265851031,
-              1.340995523700897
-            ],
-            [
-              25.795449836454125,
-              1.296644150411865
+              [
+                25.795449836454125,
+                1.296644150411865
+              ],
+              [
+                25.92850395632111,
+                -9.436388185526356
+              ],
+              [
+                30.452344031799228,
+                -9.303334065659373
+              ],
+              [
+                30.40799265851031,
+                1.340995523700897
+              ],
+              [
+                25.795449836454125,
+                1.296644150411865
+              ]
             ]
           ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Name": "state18",
-        "name": "Walnut Creek",
-        "tests": "6817",
-        "cases": "95848",
-        "deaths": "59",
-        "state": "St Stanew",
-        "todayCases": "852",
-        "todayDeaths": "852",
-        "recovered": "566",
-        "active": "477",
-        "casesPerOneMillion": "608",
-        "deathsPerOneMillion": "287",
-        "testsPerOneMillion": "74",
-        "population": "316"
+        }
       },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
+      {
+        "type": "Feature",
+        "properties": {
+          "Name": "state18",
+          "name": "Walnut Creek",
+          "tests": 6817,
+          "cases": 95848,
+          "deaths": 59,
+          "todayCases": 852,
+          "todayDeaths": 852,
+          "recovered": 566,
+          "active": 477,
+          "casesPerOneMillion": 608,
+          "deathsPerOneMillion": 287,
+          "testsPerOneMillion": 74,
+          "population": 316
+        },
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [
             [
-              17.22452086949963,
-              -10.524371102307882
-            ],
-            [
-              25.828687287565774,
-              -10.568722475596914
-            ],
-            [
-              25.873038660854807,
-              -19.616402626553267
-            ],
-            [
-              23.69982136969381,
-              -19.616402626553267
-            ],
-            [
-              23.566767249826714,
-              -15.491724910676098
-            ],
-            [
-              17.091466749632534,
-              -15.403022164098033
-            ],
-            [
-              17.22452086949963,
-              -10.524371102307882
+              [
+                17.22452086949963,
+                -10.524371102307882
+              ],
+              [
+                25.828687287565774,
+                -10.568722475596914
+              ],
+              [
+                25.873038660854807,
+                -19.616402626553267
+              ],
+              [
+                23.69982136969381,
+                -19.616402626553267
+              ],
+              [
+                23.566767249826714,
+                -15.491724910676098
+              ],
+              [
+                17.091466749632534,
+                -15.403022164098033
+              ],
+              [
+                17.22452086949963,
+                -10.524371102307882
+              ]
             ]
           ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Name": "state19",
-        "name": "Pomona",
-        "tests": "5497",
-        "cases": "67511",
-        "deaths": "33",
-        "state": "East Blackkacham",
-        "todayCases": "230",
-        "todayDeaths": "401",
-        "recovered": "764",
-        "active": "580",
-        "casesPerOneMillion": "270",
-        "deathsPerOneMillion": "532",
-        "testsPerOneMillion": "816",
-        "population": "239"
+        }
       },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
+      {
+        "type": "Feature",
+        "properties": {
+          "Name": "state19",
+          "name": "Pomona",
+          "tests": 5497,
+          "cases": 67511,
+          "deaths": 33,
+          "todayCases": 230,
+          "todayDeaths": 401,
+          "recovered": 764,
+          "active": 580,
+          "casesPerOneMillion": 270,
+          "deathsPerOneMillion": 532,
+          "testsPerOneMillion": 816,
+          "population": 239
+        },
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [
             [
-              17.407415583426907,
-              -8.847868019300591
-            ],
-            [
-              17.318712836848956,
-              -10.488868830993596
-            ],
-            [
-              22.818283124685106,
-              -10.533220204282571
-            ],
-            [
-              17.407415583426907,
-              -8.847868019300591
+              [
+                17.407415583426907,
+                -8.847868019300591
+              ],
+              [
+                17.318712836848956,
+                -10.488868830993596
+              ],
+              [
+                22.818283124685106,
+                -10.533220204282571
+              ],
+              [
+                17.407415583426907,
+                -8.847868019300591
+              ]
             ]
           ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Name": "state20",
-        "name": "Plains",
-        "tests": "4107",
-        "cases": "31995",
-        "deaths": "292",
-        "state": "New Louiseprice",
-        "todayCases": "454",
-        "todayDeaths": "163",
-        "recovered": "913",
-        "active": "967",
-        "casesPerOneMillion": "262",
-        "deathsPerOneMillion": "594",
-        "testsPerOneMillion": "512",
-        "population": "304"
+        }
       },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
+      {
+        "type": "Feature",
+        "properties": {
+          "Name": "state20",
+          "name": "Plains",
+          "tests": 4107,
+          "cases": 31995,
+          "deaths": 292,
+          "todayCases": 454,
+          "todayDeaths": 163,
+          "recovered": 913,
+          "active": 967,
+          "casesPerOneMillion": 262,
+          "deathsPerOneMillion": 594,
+          "testsPerOneMillion": 512,
+          "population": 304
+        },
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [
             [
-              25.818922728449003,
-              -7.960362631726769
-            ],
-            [
-              25.818922728449003,
-              -10.532742282488828
-            ],
-            [
-              22.669975224929864,
-              -10.57709365577786
-            ],
-            [
-              25.818922728449003,
-              -7.960362631726769
+              [
+                25.818922728449003,
+                -7.960362631726769
+              ],
+              [
+                25.818922728449003,
+                -10.532742282488828
+              ],
+              [
+                22.669975224929864,
+                -10.57709365577786
+              ],
+              [
+                25.818922728449003,
+                -7.960362631726769
+              ]
             ]
           ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Name": "bigstate",
-        "name": "Berea",
-        "tests": "2500",
-        "cases": "19560",
-        "deaths": "171",
-        "state": "West Pricebo",
-        "todayCases": "203",
-        "todayDeaths": "209",
-        "recovered": "850",
-        "active": "832",
-        "casesPerOneMillion": "403",
-        "deathsPerOneMillion": "376",
-        "testsPerOneMillion": "923",
-        "population": "499"
+        }
       },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
+      {
+        "type": "Feature",
+        "properties": {
+          "Name": "bigstate",
+          "name": "Berea",
+          "tests": 2500,
+          "cases": 19560,
+          "deaths": 171,
+          "todayCases": 203,
+          "todayDeaths": 209,
+          "recovered": 850,
+          "active": 832,
+          "casesPerOneMillion": 403,
+          "deathsPerOneMillion": 376,
+          "testsPerOneMillion": 923,
+          "population": 499
+        },
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [
             [
-              5.817331487445031,
-              -23.64991494044996
-            ],
-            [
-              30.522437651186706,
-              -23.64991494044996
-            ],
-            [
-              30.41115338918793,
-              1.277759747289494
-            ],
-            [
-              5.817331487445031,
-              1.38904400928827
-            ],
-            [
-              5.817331487445031,
-              -23.64991494044996
+              [
+                5.817331487445031,
+                -23.64991494044996
+              ],
+              [
+                30.522437651186706,
+                -23.64991494044996
+              ],
+              [
+                30.41115338918793,
+                1.277759747289494
+              ],
+              [
+                5.817331487445031,
+                1.38904400928827
+              ],
+              [
+                5.817331487445031,
+                -23.64991494044996
+              ]
             ]
           ]
-        ]
+        }
       }
-    }
-  ],
-  "coordinateSystem": "custom"
-}
+    ],
+    "coordinateSystem": "custom"
+  }
