@@ -917,51 +917,6 @@
             ]
           ]
         }
-      },
-      {
-        "type": "Feature",
-        "properties": {
-          "name": "Berea",
-          "state": "West Pricebo",
-          "tests": 2500,
-          "cases": 19560,
-          "deaths": 171,
-          "todayCases": 203,
-          "todayDeaths": 209,
-          "recovered": 850,
-          "active": 832,
-          "casesPerOneMillion": 403,
-          "deathsPerOneMillion": 376,
-          "testsPerOneMillion": 923,
-          "population": 499
-        },
-        "geometry": {
-          "type": "Polygon",
-          "coordinates": [
-            [
-              [
-                5.817331487445031,
-                -23.64991494044996
-              ],
-              [
-                30.522437651186706,
-                -23.64991494044996
-              ],
-              [
-                30.41115338918793,
-                1.277759747289494
-              ],
-              [
-                5.817331487445031,
-                1.38904400928827
-              ],
-              [
-                5.817331487445031,
-                -23.64991494044996
-              ]
-            ]
-          ]
-        }
       }
     ],
     "coordinateSystem": "custom"
