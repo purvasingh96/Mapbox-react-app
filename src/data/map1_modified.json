@@ -880,8 +880,8 @@
       {
         "type": "Feature",
         "properties": {
-          "Name": "state20",
           "name": "Plains",
+          "state": "New Louiseprice",
           "tests": 4107,
           "cases": 31995,
           "deaths": 292,
