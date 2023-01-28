@@ -1,12 +1,16 @@
 {
+    "initialViewState" :[
+        13.142057599978331,
+        1.340089801375925
+      ],
     "type": "FeatureCollection",
     "name": "editedmap1QGIS",
     "features": [
       {
         "type": "Feature",
         "properties": {
-          "Name": "state1",
           "name": "East Chicago",
+          "state": "East Newsyork",
           "tests": 7282,
           "cases": 73273,
           "deaths": 292,
@@ -50,8 +54,8 @@
       {
         "type": "Feature",
         "properties": {
-          "Name": "state2",
           "name": "Edison",
+          "state": "Fort Gasp",
           "tests": 3224,
           "cases": 22271,
           "deaths": 251,
@@ -95,8 +99,8 @@
       {
         "type": "Feature",
         "properties": {
-          "Name": "state3",
           "name": "Chesapeake",
+          "state": "St Bansterbeth",
           "tests": 9222,
           "cases": 28213,
           "deaths": 280,
@@ -144,8 +148,8 @@
       {
         "type": "Feature",
         "properties": {
-          "Name": "state5",
           "name": "Newport Beach",
+          "state": "Parmeau",
           "tests": 3471,
           "cases": 19872,
           "deaths": 255,
@@ -189,8 +193,8 @@
       {
         "type": "Feature",
         "properties": {
-          "Name": "state4",
           "name": "Fairmont",
+          "state": "Mitpayne-On-Sea",
           "tests": 1358,
           "cases": 99744,
           "deaths": 238,
@@ -234,8 +238,8 @@
       {
         "type": "Feature",
         "properties": {
-          "Name": "state6",
           "name": "Victorville",
+          "state": "North Morchet",
           "tests": 8743,
           "cases": 78879,
           "deaths": 259,
@@ -283,8 +287,8 @@
       {
         "type": "Feature",
         "properties": {
-          "Name": "state7",
           "name": "Globe",
+          "state": "South Psham",
           "tests": 3943,
           "cases": 22659,
           "deaths": 360,
@@ -328,7 +332,6 @@
       {
         "type": "Feature",
         "properties": {
-          "Name": "state8",
           "name": "Pontiac",
           "tests": 6944,
           "cases": 61956,
@@ -378,7 +381,6 @@
       {
         "type": "Feature",
         "properties": {
-          "Name": "state9",
           "name": "Council Bluffs",
           "tests": 6470,
           "cases": 47500,
@@ -424,8 +426,8 @@
       {
         "type": "Feature",
         "properties": {
-          "Name": "state10",
           "name": "Sun Valley",
+          "state": "Ferbel",
           "tests": 9929,
           "cases": 45972,
           "deaths": 300,
@@ -469,8 +471,8 @@
       {
         "type": "Feature",
         "properties": {
-          "Name": "state11",
           "name": "Rapid City",
+          "state": "San Ronhu",
           "tests": 8753,
           "cases": 96658,
           "deaths": 17,
@@ -510,8 +512,8 @@
       {
         "type": "Feature",
         "properties": {
-          "Name": "state12",
           "name": "Dearborn",
+          "state": "Ginlowhampton",
           "tests": 6532,
           "cases": 12375,
           "deaths": 284,
@@ -551,8 +553,8 @@
       {
         "type": "Feature",
         "properties": {
-          "Name": "state13",
           "name": "Lake Wales",
+          "state": "Mitgon Beach",
           "tests": 5849,
           "cases": 66280,
           "deaths": 119,
@@ -596,8 +598,8 @@
       {
         "type": "Feature",
         "properties": {
-          "Name": "state14",
           "name": "Waterville",
+          "state": "Guiskentbury",
           "tests": 8343,
           "cases": 29371,
           "deaths": 178,
@@ -649,8 +651,8 @@
       {
         "type": "Feature",
         "properties": {
-          "Name": "state15",
           "name": "Peekskill",
+          "state": "Bibameadchester",
           "tests": 1218,
           "cases": 57039,
           "deaths": 274,
@@ -694,8 +696,8 @@
       {
         "type": "Feature",
         "properties": {
-          "Name": "state16",
           "name": "Johnson City",
+          "state": "Kinsgoul",
           "tests": 9931,
           "cases": 49163,
           "deaths": 57,
@@ -739,7 +741,6 @@
       {
         "type": "Feature",
         "properties": {
-          "Name": "state17",
           "name": "Texarkana",
           "tests": 7598,
           "cases": 92601,
@@ -785,8 +786,8 @@
       {
         "type": "Feature",
         "properties": {
-          "Name": "state18",
           "name": "Walnut Creek",
+          "state": "St Stanew",
           "tests": 6817,
           "cases": 95848,
           "deaths": 59,
@@ -838,8 +839,8 @@
       {
         "type": "Feature",
         "properties": {
-          "Name": "state19",
           "name": "Pomona",
+          "state": "East Blackkacham",
           "tests": 5497,
           "cases": 67511,
           "deaths": 33,
@@ -920,8 +921,8 @@
       {
         "type": "Feature",
         "properties": {
-          "Name": "bigstate",
           "name": "Berea",
+          "state": "West Pricebo",
           "tests": 2500,
           "cases": 19560,
           "deaths": 171,
